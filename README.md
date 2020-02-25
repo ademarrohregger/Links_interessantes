@@ -481,6 +481,8 @@ https://www.udemy.com/course/your-complete-guide-to-agile-scrum-kanban/
 
 front end
 
+https://youtu.be/EO6OkltgudE canvas course
+
 https://readymag.com/
 
 https://hackernoon.com/should-i-learn-elm-if-i-am-a-javascript-developer-fba282cef6a0
