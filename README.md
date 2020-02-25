@@ -535,6 +535,12 @@ https://www.canva.com/
 
 https://files.000webhost.com/
 
+https://www.deadlinkchecker.com/website-dead-link-checker.asp
+
+https://www.cookieserve.com/
+
+
+
 python
 
 https://pense-python.caravela.club/01-a-jornada-do-programa/02-execucao-do-python.html
