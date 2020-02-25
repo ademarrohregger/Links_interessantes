@@ -4,13 +4,21 @@ Links interessantes 1.0
 
 assuntos e email
 
+
+
+
+
 free reading
+
 
 https://www.outsideonline.com/1926561/lifes-swell
 
 
 
+
+
 IT jobs reference
+
 
 https://www.bba.ca/careers/jobs-and-internship/?addr=https://bba.cvmanager.com/cvm5/displaydetail.aspx?tn=jobs&mode=view&recid=4070&lang=e&region=qc&tp1=jobdetail&rd=1
 
@@ -36,7 +44,11 @@ https://www.premiereengenharia.com/#que-fazemos
 
 
 
+
+
+
 business management
+
 
 https://www.pipefy.com/pricing-b/
 
@@ -46,7 +58,11 @@ https://en.wikipedia.org/wiki/Fishbowl_(conversation)
 
 
 
+
+
+
 basics
+
 
 https://www.youtube.com/watch?v=mkwUYbv-P2c
 
@@ -66,7 +82,6 @@ https://iiot-world.com/
 https://en.wikipedia.org/wiki/Pipeline_(software)
 
 https://duckduckgo.com/?q=evaluation+of+an+arbitrary+composition+of+predefined+functions+in+c+language&atb=v209-4rz&ia=web
-
 
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
 
@@ -125,7 +140,10 @@ https://elearning.industriallogic.com/gh/submit?Action=BrowseAlbumsAction
 https://towardsdatascience.com/ten-tips-to-save-you-time-and-frustration-when-programming-1f5a4b61f390
 
 
+
+
 Power BI
+
 
 https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated
 
@@ -152,9 +170,14 @@ https://www.sas.com/en_us/offers/sem/hbr-predictive-analytics-in-practice-107511
 
 java
 
+
 https://blog.mastertech.com.br/tecnologia/o-que-e-java-e-o-que-posso-fazer-com-isso/
 
+
+
+
 .NET
+
 
 https://fsharp.org/
 
@@ -163,7 +186,10 @@ https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 http://www.dependencywalker.com/
 
 
+
+
 security
+
 
 https://github.com/security-prince/Application-Security-Engineer-Interview-Questions/blob/master/README.md
 
@@ -208,7 +234,10 @@ https://jwt.io/introduction/
 https://auth0.com/ login/acess for free
 
 
+
+
 free courses
+
 
 https://www.khanacademy.org/
 
@@ -236,6 +265,9 @@ https://speakerdeck.com/cacarrara
 
 https://www.skillshare.com/browse/web-development?via=header
 
+
+
+
 Ansible 
 
 
@@ -248,7 +280,11 @@ https://nginx.org/
 https://www.ansible.com/
 
 
+
+
+
 container
+
 
 https://rancher.com/
 
@@ -263,7 +299,10 @@ https://www.openshift.com/
 https://www.docker.com/why-docker
 
 
+
+
 automation & testing (for IT)
+
 
 https://jenkins.io/
 
@@ -313,7 +352,12 @@ https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test
 https://jmeter.apache.org/
 
 
+
+
+
+
 metrics & time series
+
 
 https://prometheus.io/
 
@@ -325,7 +369,13 @@ https://julialang.org/ Julia language
 
 https://trends.google.com/trends/?geo=US
 
+
+
+
+
+
 IaaS
+
 
 https://www.infoworld.com/article/3095868/introduction-to-streaming-data-platforms.html
 
@@ -363,8 +413,6 @@ https://www.hashicorp.com/
 
 https://socket.io/#examples
 
-
-
 https://www.4biosacademy.com.br/cisco-linux-ess linux
 
 https://www.4biosacademy.com.br/treinamentos/todas-cidades/todos-temas/cisco-netacad cisco
@@ -397,7 +445,10 @@ https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbx
 
 
 
+
+
 Node.js 
+
 
 https://jscomplete.com/learn
 
@@ -407,7 +458,12 @@ http://www.fullstackradio.com/
 
 https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit#slide=id.p
 
+
+
+
+
 PhP
+
 
 https://www.getrevue.co/profile/asemanaphp
 
@@ -415,11 +471,20 @@ https://www.phpsc.com.br/
 
 https://laravel.com/
 
+
+
+
+
 DataBase
+
 
 https://www.microsoft.com/en-us/sql-server/default.aspx
 
+
+
+
 QT
+
 
 https://riverbankcomputing.com/software/pyqt/intro
 
@@ -429,7 +494,10 @@ https://pypi.org/project/PySide2/
 
 
 
+
+
 Ruby & R
+
 
 https://www.ruby-lang.org/en/
 
@@ -437,7 +505,12 @@ https://ruby.floripa.br/cracking-code-interviews/
 
 https://johannesmehlem.com/blog/exponential-smoothing-time-series-forecasting-r/?fbclid=IwAR00NahRW-nYFvZBqX33nlbshBpNvDxppBfg1NYGKYgMLoqQEvHLEZaAZ6g
 
+
+
+
+
 Functional languages
+
 
 https://elixir-lang.org/
 
@@ -448,7 +521,10 @@ https://ocaml.org/
 https://try.ocamlpro.com/
 
 
+
+
 IoT
+
 
 http://www.steves-internet-guide.com/
 
@@ -463,7 +539,10 @@ https://packiot.com/ cristiano / windsurfe portugal
 https://frata.com.br/weg-compra-empresa-de-telemedicao-para-sistemas-de-energia-e-iot/ IoT
 
 
+
+
 business management
+
 
 https://www.pipefy.com/pricing-b/
 
@@ -479,9 +558,14 @@ https://www.deckset.com/ slides
 
 https://www.udemy.com/course/your-complete-guide-to-agile-scrum-kanban/
 
+
+
+
 front end
 
 https://youtu.be/EO6OkltgudE canvas course
+
+https://www.rapidtables.com/web/color/html-color-codes.html  html colour code table
 
 https://readymag.com/
 
