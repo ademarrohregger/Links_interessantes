@@ -139,7 +139,7 @@ https://elearning.industriallogic.com/gh/submit?Action=BrowseAlbumsAction
 
 https://towardsdatascience.com/ten-tips-to-save-you-time-and-frustration-when-programming-1f5a4b61f390
 
-
+https://haxe.org/ trans piler language (compiler 2 another language )
 
 
 Power BI
