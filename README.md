@@ -240,6 +240,8 @@ free courses
 
 https://www.freecodecamp.org/
 
+https://www.udemy.com/share/101sZWB0QadFpTRn4=/ IT noob
+
 https://www.khanacademy.org/
 
 https://www.freecodecamp.org/learn
