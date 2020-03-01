@@ -233,6 +233,12 @@ https://jwt.io/introduction/
 
 https://auth0.com/ login/acess for free
 
+https://andersbrownworth.com/ blockchain demo
+
+https://zoom.us/rec/play/vJUpdeyhrj83GtSUuQSDA_AvW464J_ms2ikX_fRYzEmxAXcDZlChY7pHZ-Xo4NZx7mCoHEexoGyhGyjc?continueMode=true
+
+Basics of blockchain
+
 
 
 
