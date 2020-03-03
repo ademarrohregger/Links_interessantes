@@ -268,9 +268,13 @@ Basics of blockchain
 
 free courses
 
+https://moodle.ifrs.edu.br/course/index.php?categoryid=38
+
 https://www.freecodecamp.org/
 
 https://www.udemy.com/share/101sZWB0QadFpTRn4=/ IT noob
+
+https://www.youtube.com/watch?v=0sTfIZvjYJk multiplayer game
 
 https://www.khanacademy.org/
 
@@ -791,6 +795,10 @@ https://en.wikipedia.org/wiki/Automata_theory
 https://en.wikipedia.org/wiki/Markov_model
 
 https://automation.isa.org/how-to-tune-pid-controllers-self-regulating-processes/
+
+https://www.academia.edu/31446743/Elements_of_power_distribution_systems?email_work_card=thumbnail
+
+
 
 politics
 
