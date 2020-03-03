@@ -13,7 +13,7 @@ free reading
 
 https://www.outsideonline.com/1926561/lifes-swell
 
-
+https://ed.ted.com/lessons/how-you-can-use-impostor-syndrome-to-your-benefit-mike-cannon-brookes?fbclid=IwAR0wFDZgMHtwS6o0LgEmbrBkn7zFfItT71F-zrfUI5xlfaDRkFh3J0ICrj0
 
 
 
@@ -600,6 +600,7 @@ https://www.udemy.com/course/your-complete-guide-to-agile-scrum-kanban/
 
 front end
 
+
 https://youtu.be/EO6OkltgudE canvas course
 
 https://www.rapidtables.com/web/color/html-color-codes.html  html colour code table
@@ -764,7 +765,10 @@ https://black.now.sh/?version=stable&state=_Td6WFoAAATm1rRGAgAhARYAAAB0L-Wj4ARIA
 
 https://spacevim.org/
 
+
+
 games
+
 
 https://www.razer.com/ca-en
 
@@ -773,6 +777,7 @@ https://aws.amazon.com/pt/lumberyard/downloads/
 
 
 engineering
+
 
 https://www.finersistemas.com/atenaeditora/index.php/admin/api/ebookPDF/2891
 
@@ -802,7 +807,11 @@ https://www.academia.edu/31446743/Elements_of_power_distribution_systems?email_w
 
 politics
 
+
 https://www.academia.edu/20580020/A_PRUD%C3%8ANCIA_POL%C3%8DTICA_NA_FILOSOFIA_DE_EDMUND_BURKE
+
+https://www.mises.org.br/article/3149/e-facil-entender-por-que-os-jovens-dos-paises-mais-ricos-tendem-a-defender-mais-socialismo
+
 
 
 
