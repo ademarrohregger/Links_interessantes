@@ -237,6 +237,10 @@ https://andersbrownworth.com/ blockchain demo
 
 https://zoom.us/rec/play/vJUpdeyhrj83GtSUuQSDA_AvW464J_ms2ikX_fRYzEmxAXcDZlChY7pHZ-Xo4NZx7mCoHEexoGyhGyjc?continueMode=true
 
+https://haveibeenpwned.com/  - verifying if your email have hacked
+
+
+
 Basics of blockchain
 
 
