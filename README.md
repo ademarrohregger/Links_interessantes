@@ -1,4 +1,4 @@
-# Links_interresantes
+# Links_interressantes
 Links interessantes 1.0
 
 
@@ -493,7 +493,7 @@ DataBase
 
 https://www.microsoft.com/en-us/sql-server/default.aspx
 
-
+https://dbdiagram.io/d
 
 
 QT
