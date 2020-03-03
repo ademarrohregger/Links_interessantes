@@ -237,7 +237,27 @@ https://andersbrownworth.com/ blockchain demo
 
 https://zoom.us/rec/play/vJUpdeyhrj83GtSUuQSDA_AvW464J_ms2ikX_fRYzEmxAXcDZlChY7pHZ-Xo4NZx7mCoHEexoGyhGyjc?continueMode=true
 
+
+
+hacking
+
 https://haveibeenpwned.com/  - verifying if your email have hacked
+
+https://www.4devs.com.br/
+
+https://pt.freephonenum.com/ sms free
+
+https://receive-smss.com/
+
+https://temp-sms.org/
+
+https://www.mozilla.org/en-US/firefox/lockwise/
+
+
+
+https://temp-mail.org/pt/?__cf_chl_jschl_tk__=95c7f7fd5b025a13ac45e72984fad290062e3f6e-1583203859-0-AexU4E44y0UCMLuMwAVKNkMIH90_eKdG5Wm4Easn4RSBlVgGfwWC8obvXx4ggmyDjL-QClWJnO4LDMJFK-NvHge8k7p8sVglsAwvzOWW_KHI4R75i9vN_7UnnhdEqZeduOo6NHopUH7o1XesX9cHRQuxAE0TZWnlsiZVXOICvZZMUd8XARtjFfCOulLPancuvd0rjKVh4dExQ67C6sk3S20sNXWodfZCPq5ViVAP30ZUqGGmeKU90uENDjcbOD4noH1j8dSUrCLk7kMyeZSdc4E temp email
+
+
 
 
 
