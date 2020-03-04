@@ -239,6 +239,8 @@ https://zoom.us/rec/play/vJUpdeyhrj83GtSUuQSDA_AvW464J_ms2ikX_fRYzEmxAXcDZlChY7p
 
 
 
+
+
 hacking
 
 https://haveibeenpwned.com/  - verifying if your email have hacked
@@ -335,7 +337,7 @@ https://www.openshift.com/
 
 https://www.docker.com/why-docker
 
-
+https://travis-ci.com/account/subscription?billingStep=1 Code integration
 
 
 automation & testing (for IT)
