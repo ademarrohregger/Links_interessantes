@@ -925,6 +925,8 @@ https://electrical-engineering-portal.com/preventing-damping-ferroresonance
 
 https://electrical-engineering-portal.com/plc-troubleshooting
 
+https://electrical-engineering-portal.com/reading-electrical-drawings
+
 
 
 politics
