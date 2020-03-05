@@ -670,6 +670,8 @@ front end
 
 https://youtu.be/EO6OkltgudE canvas course
 
+https://www.youtube.com/watch?v=QiQnOhst6_U  Media Queries and Flexbox Layout CSS
+
 https://www.rapidtables.com/web/color/html-color-codes.html  html colour code table
 
 https://readymag.com/
