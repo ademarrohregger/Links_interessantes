@@ -38,11 +38,16 @@ https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test
 
 https://www.algoexpert.io/questions
 
+
+
 resume & webpage
+
+
 
 https://www.premiereengenharia.com/#que-fazemos
 
 
+https://www.freesumes.com/contrast-the-free-bold-fill-in-the-blank-resume-design/
 
 
 
@@ -56,7 +61,7 @@ https://en.wikipedia.org/wiki/Agile_software_development
 
 https://en.wikipedia.org/wiki/Fishbowl_(conversation)
 
-
+https://en.wikipedia.org/wiki/Business_Model_Canvas
 
 
 
@@ -237,6 +242,40 @@ https://andersbrownworth.com/ blockchain demo
 
 https://zoom.us/rec/play/vJUpdeyhrj83GtSUuQSDA_AvW464J_ms2ikX_fRYzEmxAXcDZlChY7pHZ-Xo4NZx7mCoHEexoGyhGyjc?continueMode=true
 
+https://owasp.org/www-project-vulnerable-web-applications-directory/
+
+https://cybersecuritynews.com/facebook-account-take-over-vulnerability/
+
+https://github.com/trustedsec
+
+https://www.netacad.com/pt-br/courses/security/cybersecurity-essentials
+
+https://www.netacad.com/pt-br/courses/security/introduction-cybersecurity
+
+https://aws.amazon.com/pt/blogs/aws-brasil/urgente-e-importante-rotacione-seus-certificados-do-amazon-rds-aurora-e-amazon-documentdb-com-compatibilidade-com-o-mongodb/
+
+https://www.udemy.com/course/curso-de-seguranca-em-nuvem/
+
+https://github.com/security-prince/Application-Security-Engineer-Interview-Questions/blob/master/README.md
+
+https://www.elastic.co/pdf/elastic-guide-to-threat-hunting?ultron=rsa-2020&blade=twitter&hulk=social
+
+https://www.zdnet.com/article/ghostcat-bug-impacts-all-apache-tomcat-versions-released-in-the-last-13-years/
+
+https://www.linkedin.com/posts/313xcybersecurity_guidelines-for-cybsersecurity-in-hospitals-activity-6639186472010346497-B9bU
+
+https://thehack.com.br/basta-uma-simples-pesquisa-no-google-para-encontrar-grupos-secretos-no-whatsapp/
+
+https://nakedsecurity.sophos.com/2020/02/27/slickwraps-data-breach-earns-scorn-for-all/
+
+
+
+
+
+
+
+
+
 
 
 
@@ -260,7 +299,9 @@ https://www.mozilla.org/en-US/firefox/lockwise/
 https://temp-mail.org/pt/?__cf_chl_jschl_tk__=95c7f7fd5b025a13ac45e72984fad290062e3f6e-1583203859-0-AexU4E44y0UCMLuMwAVKNkMIH90_eKdG5Wm4Easn4RSBlVgGfwWC8obvXx4ggmyDjL-QClWJnO4LDMJFK-NvHge8k7p8sVglsAwvzOWW_KHI4R75i9vN_7UnnhdEqZeduOo6NHopUH7o1XesX9cHRQuxAE0TZWnlsiZVXOICvZZMUd8XARtjFfCOulLPancuvd0rjKVh4dExQ67C6sk3S20sNXWodfZCPq5ViVAP30ZUqGGmeKU90uENDjcbOD4noH1j8dSUrCLk7kMyeZSdc4E temp email
 
 
+https://www.mailinator.com/
 
+Hackerspaces.org
 
 
 Basics of blockchain
@@ -304,6 +345,22 @@ https://speakerdeck.com/cacarrara
 
 https://www.skillshare.com/browse/web-development?via=header
 
+https://www.ibm.com/br-pt/blockchain/what-is-blockchain
+
+https://andersbrownworth.com/blockchain/distributed
+
+https://www.ibm.com/br-pt/blockchain/what-is-blockchain
+
+https://www.ibm.com/blockchain/hyperledger
+
+https://www.youtube.com/watch?v=vOqatv42tkc
+
+https://www.bbc.com/portuguese/geral-51409523
+
+https://www.reddit.com/r/BrasildoB/
+
+https://www.swift.com/your-needs/industry-themes/distributed-ledger-technology-dlt_
+
 
 
 
@@ -338,6 +395,10 @@ https://www.openshift.com/
 https://www.docker.com/why-docker
 
 https://travis-ci.com/account/subscription?billingStep=1 Code integration
+
+
+
+
 
 
 automation & testing (for IT)
@@ -468,6 +529,8 @@ https://www.youtube.com/watch?v=FOTljFfIvh0&feature=youtu.be
 
 https://www.elastic.co/ece
 
+https://www.elastic.co/pdf/elastic-guide-to-threat-hunting?ultron=rsa-2020&blade=twitter&hulk=social
+
 https://www.000webhost.com/ free website
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
@@ -497,7 +560,7 @@ http://www.fullstackradio.com/
 
 https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit#slide=id.p
 
-
+https://nodejs.org/en/download/package-manager/#macos
 
 
 
@@ -530,6 +593,8 @@ https://riverbankcomputing.com/software/pyqt/intro
 https://bluerobotics.com/store/rov/bluerov2/
 
 https://pypi.org/project/PySide2/
+
+https://doc.qt.io/qtforpython/tutorials/qmlapp/qmlapplication.html
 
 
 
@@ -665,9 +730,18 @@ https://www.deadlinkchecker.com/website-dead-link-checker.asp
 
 https://www.cookieserve.com/
 
+https://www.youtube.com/watch?v=3b7FyIxWW94
+
+https://github.com/christopher4lis/canvas-boilerplate
+
+https://www.fsf.org/blogs/sysadmin/coming-soon-a-new-site-for-fully-free-collaboration
+
+
+
 
 
 python
+
 
 https://pense-python.caravela.club/01-a-jornada-do-programa/02-execucao-do-python.html
 
@@ -718,9 +792,22 @@ https://hvplot.holoviz.org/
 
 https://pypi.org/project/PySide2/
 
+https://github.com/andrersp/flask-api-pyside
+
+https://zyro.com/
+
+https://codepen.io/tholman/full/foxtn/
+
+
+
 Rust
 
 https://www.rust-lang.org/
+
+
+
+
+
 
 
 Mobile
@@ -747,8 +834,14 @@ https://imasters.com.br/desenvolvimento/framework-agnostic-code
 
 monday.com to do ++
 
+https://education.github.com/pack
+
+
+
+
 
 Serverless
+
 
 https://martinfowler.com/articles/serverless.html
 
@@ -759,7 +852,12 @@ https://cloud.google.com/bigquery/?&utm_source=google&utm_medium=cpc&utm_campaig
 
 
 
+
+
+
 IDE, Editors & tools
+
+
 
 https://black.readthedocs.io/en/stable/
 
@@ -768,8 +866,18 @@ https://black.now.sh/?version=stable&state=_Td6WFoAAATm1rRGAgAhARYAAAB0L-Wj4ARIA
 https://spacevim.org/
 
 
+Big data & Data Science
+
+https://xpro.mit.edu/courses/course-v1:xPRO+DSx/?utm_medium=paidsocial&utm_source=facebook&utm_campaign=dsx&utm_content=fb-conv-b
+
+
+
+
+
+
 
 games
+
 
 
 https://www.razer.com/ca-en
@@ -778,7 +886,11 @@ https://aws.amazon.com/pt/lumberyard/downloads/
 
 
 
+
+
+
 engineering
+
 
 
 https://www.finersistemas.com/atenaeditora/index.php/admin/api/ebookPDF/2891
@@ -805,9 +917,19 @@ https://automation.isa.org/how-to-tune-pid-controllers-self-regulating-processes
 
 https://www.academia.edu/31446743/Elements_of_power_distribution_systems?email_work_card=thumbnail
 
+https://electrical-engineering-portal.com/whats-really-important-when-youre-designing-the-low-voltage-switchgear
+
+https://electrical-engineering-portal.com/download-center/books-and-guides/electrical-engineering/design-calculations
+
+https://electrical-engineering-portal.com/preventing-damping-ferroresonance
+
+https://electrical-engineering-portal.com/plc-troubleshooting
+
 
 
 politics
+
+
 
 
 https://www.academia.edu/20580020/A_PRUD%C3%8ANCIA_POL%C3%8DTICA_NA_FILOSOFIA_DE_EDMUND_BURKE
@@ -818,5 +940,15 @@ https://www.mises.org.br/article/3149/e-facil-entender-por-que-os-jovens-dos-pai
 
 
 
+Public Utility
+
+
+
+
+https://downdetector.com.br/fora-do-ar/vivo/      detetor de servicos fora do ar
+
+https://www.bbc.com/portuguese/geral-51409523   Somos cada vez + infelizes por causa da tecnologia
+
+https://museudocomputador.org.br/
 
 
