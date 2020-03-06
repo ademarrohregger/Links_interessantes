@@ -759,9 +759,18 @@ https://www.hostinger.com.br/tutoriais/o-que-e-vps-como-escolher-um-servidor-vps
 
 https://www.bravostudio.app/ web app builder
 
+https://www.youtube.com/watch?v=y5B0MXmt428  React, babel, webpack
+
+
+
+
+
+
+
 
 
 python
+
 
 
 https://pense-python.caravela.club/01-a-jornada-do-programa/02-execucao-do-python.html
