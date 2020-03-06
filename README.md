@@ -303,6 +303,9 @@ https://www.mailinator.com/
 
 Hackerspaces.org
 
+https://portswigger.net/web-security/sql-injection/cheat-sheet
+
+
 
 Basics of blockchain
 
@@ -545,8 +548,17 @@ https://www.atlassian.com/git/tutorials/install-git?section=homebrew
 
 https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit?pli=1#slide=id.p      API create
 
+https://console.sa-saopaulo-1.oraclecloud.com/containers/clusters?cloudshell=true Oracle cloud trial
 
+https://www.cncf.io/
 
+https://www.gitops.tech/
+
+https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build?hl=pt-br
+
+https://linkerd.io/
+
+https://www.envoyproxy.io/
 
 
 Node.js 
@@ -849,7 +861,7 @@ https://martinfowler.com/articles/serverless.html
 
 https://cloud.google.com/bigquery/?&utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1003997-LUAC0008671&utm_content=text-ad-none-none-DEV_c-CRE_330330635428-ADGP_BKWS+%7C+Multi+~+Big+Data+%7C+Big+Query-KWID_43700040369789992-kwd-359777023176-userloc_1001706&utm_term=KW_google%20big%20query-ST_Google+Big+Query&gclid=Cj0KCQjwxMjnBRCtARIsAGwWnBN4VkZrQ3yctkag2oGIgo_0PEGrcElO1uoxP0jYpAUTu-tj9U8zW-EaAkpWEALw_wcB&gclsrc=aw.ds
 
-
+https://www.youtube.com/watch?v=Syy2jpuWDAU
 
 
 
