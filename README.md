@@ -268,7 +268,7 @@ https://thehack.com.br/basta-uma-simples-pesquisa-no-google-para-encontrar-grupo
 
 https://nakedsecurity.sophos.com/2020/02/27/slickwraps-data-breach-earns-scorn-for-all/
 
-
+https://pwning.owasp-juice.shop/part2/xss.html
 
 
 
