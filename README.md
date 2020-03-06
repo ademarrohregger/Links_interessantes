@@ -754,6 +754,11 @@ https://www.fsf.org/blogs/sysadmin/coming-soon-a-new-site-for-fully-free-collabo
 
 https://www.svgbackgrounds.com/
 
+https://www.hostinger.com.br/tutoriais/o-que-e-vps-como-escolher-um-servidor-vps
+
+
+https://www.bravostudio.app/ web app builder
+
 
 
 python
