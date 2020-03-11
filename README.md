@@ -172,6 +172,8 @@ https://kotlinlang.org/
 
 https://www.sas.com/en_us/offers/sem/hbr-predictive-analytics-in-practice-107511.html?gclid=EAIaIQobChMI3OfRi6CK4gIVD4ORCh2B4gY7EAAYASAAEgJLO_D_BwE
 
+https://www.youtube.com/watch?v=vSMhLP7r7w8&feature=youtu.be   9o meetup
+
 
 java
 
