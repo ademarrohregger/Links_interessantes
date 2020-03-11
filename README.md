@@ -318,6 +318,8 @@ free courses
 
 https://moodle.ifrs.edu.br/course/index.php?categoryid=38
 
+https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
+
 https://www.freecodecamp.org/
 
 https://www.udemy.com/share/101sZWB0QadFpTRn4=/ IT noob
