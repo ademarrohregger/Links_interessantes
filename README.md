@@ -272,10 +272,9 @@ https://nakedsecurity.sophos.com/2020/02/27/slickwraps-data-breach-earns-scorn-f
 
 https://pwning.owasp-juice.shop/part2/xss.html
 
+https://darkport.co.uk/ git buckets
 
-
-
-
+https://www.tenchisecurity.com/#home
 
 
 
