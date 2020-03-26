@@ -276,9 +276,11 @@ https://darkport.co.uk/ git buckets
 
 https://www.tenchisecurity.com/#home
 
+https://github.com/toniblyx/prowler
 
+https://pastehunter.com/
 
-
+https://buckets.grayhatwarfare.com/
 
 
 hacking
