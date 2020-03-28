@@ -282,6 +282,7 @@ https://pastehunter.com/
 
 https://buckets.grayhatwarfare.com/
 
+https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html Project Omega 2 -learning aws
 
 hacking
 
