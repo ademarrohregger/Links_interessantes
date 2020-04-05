@@ -162,7 +162,12 @@ https://www.brasil.io/home
 
 https://datasetsearch.research.google.com/
 
+
+
+
 Machine learning
+
+
 
 https://www.tensorflow.org/
 
@@ -175,6 +180,10 @@ https://kotlinlang.org/
 https://www.sas.com/en_us/offers/sem/hbr-predictive-analytics-in-practice-107511.html?gclid=EAIaIQobChMI3OfRi6CK4gIVD4ORCh2B4gY7EAAYASAAEgJLO_D_BwE
 
 https://www.youtube.com/watch?v=vSMhLP7r7w8&feature=youtu.be   9o meetup
+
+https://geam.paginas.ufsc.br/curso-laboratorio-de-machine-learning/
+
+
 
 
 java
@@ -315,7 +324,15 @@ https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 
 
-Basics of blockchain
+SSL / HASH / BlockChain
+
+https://www.sslforfree.com/create?domains=ademar.enersys.com.br
+
+https://www.tools4noobs.com/online_tools/
+
+https://www.nartac.com/Products/IISCrypto/
+
+
 
 
 
@@ -842,6 +859,10 @@ https://zyro.com/
 
 https://codepen.io/tholman/full/foxtn/
 
+https://www.python.pro.br/modulos/python-birds/topicos/instalacao-mac
+
+https://jupyter.org/
+
 
 
 Rust
@@ -918,7 +939,7 @@ Big data & Data Science
 
 https://xpro.mit.edu/courses/course-v1:xPRO+DSx/?utm_medium=paidsocial&utm_source=facebook&utm_campaign=dsx&utm_content=fb-conv-b
 
-
+https://courses.edx.org/dashboard
 
 
 
