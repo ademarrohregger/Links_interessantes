@@ -38,6 +38,28 @@ https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test
 
 https://www.algoexpert.io/questions
 
+https://memengineering.ca/
+
+http://www.wardtechtalent.com/
+
+https://www.safran-landing-systems.com/
+
+https://www.signify.com/en-ca
+
+http://www.mtts.com/
+
+https://www.numbeo.com/remote/product-management-jobs
+
+https://www.amazon.jobs/pt/search?offset=10&result_limit=10&sort=relevant&distanceType=Mi&radius=80km&latitude=43.26197&longitude=-79.888&loc_group_id=&loc_query=Hamilton%2C%20ON%2C%20Canad%C3%A1&base_query=&city=Hamilton&country=CAN&region=Ontario&county=Hamilton&query_options=&
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZQqBGQvWzCFRMKgMVKWBhpg
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZTKdMpwKFRvRThthSpMNTsw
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZTKdMpwKFRvRThthSpMNTsw
+
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZLFXxdgpjMSlXwqqrjHnfsq
+
 
 
 resume & webpage
@@ -54,7 +76,9 @@ https://dash.cloudflare.com/557bbd97dbf54d9ed78893ad9122a444/enersys.com.br/ssl-
 weblink
 
 
-business management
+
+
+business management & software development (SD)
 
 
 https://www.pipefy.com/pricing-b/
@@ -65,11 +89,17 @@ https://en.wikipedia.org/wiki/Fishbowl_(conversation)
 
 https://en.wikipedia.org/wiki/Business_Model_Canvas
 
+https://www.atlassian.com/
+
+https://products.office.com/pt-br/visio/flowchart-software
+
+
 
 
 
 basics
 
+https://www.youtube.com/watch?v=GZvSYJDk-us&feature=youtu.be
 
 https://www.youtube.com/watch?v=mkwUYbv-P2c
 
@@ -162,6 +192,18 @@ https://www.brasil.io/home
 
 https://datasetsearch.research.google.com/
 
+https://en.m.wikipedia.org/wiki/Data_warehouse
+
+
+Cloud arquitect
+
+https://aws.amazon.com/pt/architecture/icons/
+
+https://cloudcraft.co/
+
+https://support.draw.io/display/DO/2014/10/06/Using+AWS+2.0+icons+to+create+free+Amazon+architecture+diagrams+in+draw.io
+
+https://aws.amazon.com/pt/blogs/aws-brasil/trabalhando-em-casa-veja-como-a-aws-pode-lhe-ajudar/
 
 
 
@@ -311,6 +353,10 @@ https://www.mozilla.org/en-US/firefox/lockwise/
 
 https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html  AWS basics
 
+https://calculator.aws/#/
+
+https://www.atlassian.com/
+
 
 
 https://temp-mail.org/pt/?__cf_chl_jschl_tk__=95c7f7fd5b025a13ac45e72984fad290062e3f6e-1583203859-0-AexU4E44y0UCMLuMwAVKNkMIH90_eKdG5Wm4Easn4RSBlVgGfwWC8obvXx4ggmyDjL-QClWJnO4LDMJFK-NvHge8k7p8sVglsAwvzOWW_KHI4R75i9vN_7UnnhdEqZeduOo6NHopUH7o1XesX9cHRQuxAE0TZWnlsiZVXOICvZZMUd8XARtjFfCOulLPancuvd0rjKVh4dExQ67C6sk3S20sNXWodfZCPq5ViVAP30ZUqGGmeKU90uENDjcbOD4noH1j8dSUrCLk7kMyeZSdc4E temp email
@@ -332,7 +378,11 @@ https://www.tools4noobs.com/online_tools/
 
 https://www.nartac.com/Products/IISCrypto/
 
+https://andersbrownworth.com/blockchain/distributed
 
+https://andersbrownworth.com/blockchain/
+
+https://www.youtube.com/user/sunnylearning
 
 
 
@@ -579,6 +629,8 @@ https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbx
 
 https://console.sa-saopaulo-1.oraclecloud.com/containers/clusters?cloudshell=true Oracle cloud trial
 
+https://learn.oracle.com/ols/course/oracle-cloud-infrastructure-architect-professional-workshop/35644/60999#
+
 https://www.cncf.io/
 
 https://www.gitops.tech/
@@ -687,6 +739,10 @@ https://packiot.com/ cristiano / windsurfe portugal
 
 https://frata.com.br/weg-compra-empresa-de-telemedicao-para-sistemas-de-energia-e-iot/ IoT
 
+https://web.archive.org/web/20190718200516/https://www.semtech.com/uploads/documents/an1200.22.pdf
+
+
+
 
 
 
@@ -706,6 +762,14 @@ https://www.hitachivantara.com/en-us/products/data-management-analytics/pentaho-
 https://www.deckset.com/ slides
 
 https://www.udemy.com/course/your-complete-guide-to-agile-scrum-kanban/
+
+https://www.google.com/search?client=firefox-b-d&q=Project+Portfolio+Management
+
+https://www.projectsmart.co.uk/earned-value-management-explained.php
+
+https://www.google.com/search?client=firefox-b-d&q=arned+Value+Management+Systems
+
+
 
 
 
@@ -792,9 +856,9 @@ https://www.bravostudio.app/ web app builder
 
 https://www.youtube.com/watch?v=y5B0MXmt428  React, babel, webpack
 
+https://criarvideosanimados.com.br/?ref=N7002829K
 
-
-
+https://www.gatsbyjs.org/
 
 
 
@@ -863,6 +927,7 @@ https://www.python.pro.br/modulos/python-birds/topicos/instalacao-mac
 
 https://jupyter.org/
 
+https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-y76xa714/lab
 
 
 Rust
@@ -935,11 +1000,19 @@ https://spacevim.org/
 
 
 
-Big data & Data Science
+Big data, Analitics  & Data Science
 
 https://xpro.mit.edu/courses/course-v1:xPRO+DSx/?utm_medium=paidsocial&utm_source=facebook&utm_campaign=dsx&utm_content=fb-conv-b
 
 https://courses.edx.org/dashboard
+
+http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/
+
+http://datascienceacademy.com.br/blog/o-que-faz-um-engenheiro-de-dados/
+
+https://www.aquare.la/en/
+
+https://en.wikipedia.org/wiki/Apache_Hadoop
 
 
 
@@ -996,6 +1069,24 @@ https://electrical-engineering-portal.com/plc-troubleshooting
 
 https://electrical-engineering-portal.com/reading-electrical-drawings
 
+https://sg-mktg.com/MTU4NTc2Nzc2OHw0MFZVblpXa2w2WUN1d3NVV0xMWVRDT1hFakZpYk0tNjc5VWM0MDJRM29tcUN3bXZRVUk0VjQwWURyWml5NXhkTE9mVy1pMnFpR29RQjk1bXJqU1M0MFowS19WVGtkdml5dlp0YkduSjY2V2JELWdjS2oxX2pseUhxRFZnbnRwNXFVMkktUHZtRTlYRnVkQkZLYnV2dHVVQ2V5Zkd4Sjc2R2VvVkd6TzN6TURSMGs5a3FOdUlsaGVwZkVFdllGaDdvcGFvc3RPa0RIbG1qODNFVzRCVC13bmJ3cFgwaVl5UDNRSHd0NzJfX1prOWhQMXRDeUZKbGVPUnBHMHFmT2VnMVE9PXxU3V9xqhqhM5fcKoyNfkqJ7CHQk-Mz9-mzbDdaUNIJMA==
+
+
+
+
+
+
+
+hacking
+
+https://pt.wikipedia.org/wiki/Ataque_de_nega%C3%A7%C3%A3o_de_servi%C3%A7o
+
+https://web.stanford.edu/class/cs253/
+
+https://gist.github.com/joepie91/5a9909939e6ce7d09e29
+
+
+
 
 
 politics
@@ -1021,5 +1112,7 @@ https://downdetector.com.br/fora-do-ar/vivo/      detetor de servicos fora do ar
 https://www.bbc.com/portuguese/geral-51409523   Somos cada vez + infelizes por causa da tecnologia
 
 https://museudocomputador.org.br/
+
+https://www.homesinlondonontario.ca/living-london-ontario/#chapter-3
 
 
