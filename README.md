@@ -370,7 +370,14 @@ https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 
 
+
+
+
+
 SSL / HASH / BlockChain
+
+
+
 
 https://www.sslforfree.com/create?domains=ademar.enersys.com.br
 
@@ -441,7 +448,7 @@ https://www.reddit.com/r/BrasildoB/
 
 https://www.swift.com/your-needs/industry-themes/distributed-ledger-technology-dlt_
 
-
+https://www.freecodecamp.org/learn/?messages=success%5B0%5D%3DSuccess%2521%2520You%2520have%2520signed%2520in%2520to%2520your%2520account.%2520Happy%2520Coding%2521
 
 
 Ansible 
@@ -670,7 +677,20 @@ https://www.programmableweb.com/category-api
 
 https://apilist.fun/
 
+https://www.youtube.com/watch?v=GZvSYJDk-us&feature=youtu.be
+
 https://www.twilio.com/
+
+https://stedolan.github.io/jq/tutorial/
+
+https://www.postman.com/
+
+https://explore.postman.com/
+
+https://www.postman.com/resources/videos-tutorials/
+
+https://www.twilio.com/docs/libraries/node#installation
+
 
 
 
@@ -875,7 +895,11 @@ https://criarvideosanimados.com.br/?ref=N7002829K
 
 https://www.gatsbyjs.org/
 
+https://bootswatch.com/ free bootstrap themes
 
+https://themes.3rdwavemedia.com/bootstrap-templates/free/ more
+
+https://media.giphy.com/media/3oEjI9T0ixjZCFwi8U/giphy.gif free gif
 
 
 
