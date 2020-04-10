@@ -368,9 +368,33 @@ Hackerspaces.org
 
 https://portswigger.net/web-security/sql-injection/cheat-sheet
 
+https://portswigger.net/burp
 
+https://www.hackerone.com/start-hacking
 
+https://hackerone.com/bug-bounty-programs
 
+https://www.isc2.org/Training/Search
+
+https://www.youtube.com/watch?v=eU8fC3vCImQ
+
+https://www.netacad.com/courses/security
+
+https://overthewire.org/wargames/bandit/
+
+http://www.lsd-pl.net/
+
+http://www.phrack.org/
+
+https://m.twitch.tv/nahamsec/profile
+
+ https://www.hacker101.com
+ 
+  https://portswigger.net/web-security
+  
+   https://pentesterlab.com
+   
+    https://hackerone.com/hacktivity
 
 
 
