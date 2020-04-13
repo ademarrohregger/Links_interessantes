@@ -337,7 +337,30 @@ https://buckets.grayhatwarfare.com/
 
 https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html Project Omega 2 -learning aws
 
+
+Security cast
+https://github.com/salesforce/ja3
+https://www.thec2matrix.com/matrix
+https://github.com/byt3bl33d3r/SILENTTRINITY
+https://github.com/ademarrohregger/Covenant
+https://github.com/ademarrohregger/Empire
+https://antiscan.me/
+https://gohacking.com.br/
+https://github.com/ademarrohregger/radare2
+https://www.cybersecurity-review.com/tag/triton/
+https://github.com/ademarrohregger/miasm
+https://github.com/alexhude/uEmu
+https://keystoneassembly.com/
+https://www.aida64.com/products/aida64-extreme
+https://github.com/ademarrohregger/volatility3
+https://attack.mitre.org/
+
+
+
+
 hacking
+
+
 
 https://haveibeenpwned.com/  - verifying if your email have hacked
 
@@ -396,9 +419,16 @@ https://m.twitch.tv/nahamsec/profile
    
     https://hackerone.com/hacktivity
 
+https://alternativeto.net/
+
+https://www.techrepublic.com/videos/how-to-protect-your-organization-and-remote-workers-against-ransomware/#ftag=RSS56d97e7
 
 
-SSL / HASH / BlockChain
+
+
+
+
+SSL / HASH / BlockChain / vpn
 
 
 
@@ -415,10 +445,18 @@ https://andersbrownworth.com/blockchain/
 
 https://www.youtube.com/user/sunnylearning
 
+https://www.techrepublic.com/article/how-to-better-secure-your-microsoft-remote-desktop-protocol-connections/
+
+https://www.techrepublic.com/article/how-to-better-secure-your-microsoft-remote-desktop-protocol-connections/
+
+
+
 
 
 
 free courses
+
+
 
 https://moodle.ifrs.edu.br/course/index.php?categoryid=38
 
@@ -475,7 +513,11 @@ https://www.swift.com/your-needs/industry-themes/distributed-ledger-technology-d
 https://www.freecodecamp.org/learn/?messages=success%5B0%5D%3DSuccess%2521%2520You%2520have%2520signed%2520in%2520to%2520your%2520account.%2520Happy%2520Coding%2521
 
 
+
+
+
 Ansible 
+
 
 
 https://www.youtube.com/watch?v=mkwUYbv-P2c
@@ -508,6 +550,9 @@ https://www.docker.com/why-docker
 https://travis-ci.com/account/subscription?billingStep=1 Code integration
 
 https://drive.google.com/file/d/1-iKqevJNq7uXWXgPNx2CAtAfotM6nQLU/view
+
+https://youtu.be/RthGsZVPdOU
+
 
 
 
@@ -632,18 +677,6 @@ https://www.4biosacademy.com.br/treinamentos/todas-cidades/todos-temas/cisco-net
 
 https://slack.com/intl/en-br/
 
-https://www.elastic.co/downloads/elasticsearch ELK
-
-https://www.elastic.co/pt/webinars/getting-started-elasticsearch?ultron=pt-elasticsearch-getting-started-webinar&blade=facebook&hulk=cpc&sfns=mo
-
-https://discuss.elastic.co/t/securing-elasticsearch-and-kibana-with-ssl-and-username-and-password/184873
-
-https://www.youtube.com/watch?v=FOTljFfIvh0&feature=youtu.be
-
-https://www.elastic.co/ece
-
-https://www.elastic.co/pdf/elastic-guide-to-threat-hunting?ultron=rsa-2020&blade=twitter&hulk=social
-
 https://www.000webhost.com/ free website
 
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
@@ -673,6 +706,34 @@ https://linkerd.io/
 https://www.envoyproxy.io/
 
 https://nginx.org/en/
+
+
+
+
+
+
+
+ELK Elastisearch
+
+
+https://techlipe.github.io/Workshop-Zero-To-Hero/dia01-configuracoes
+
+https://www.elastic.co/downloads/elasticsearch ELK
+
+https://www.elastic.co/pt/webinars/getting-started-elasticsearch?ultron=pt-elasticsearch-getting-started-webinar&blade=facebook&hulk=cpc&sfns=mo
+
+https://discuss.elastic.co/t/securing-elasticsearch-and-kibana-with-ssl-and-username-and-password/184873
+
+https://www.youtube.com/watch?v=FOTljFfIvh0&feature=youtu.be
+
+https://www.elastic.co/ece
+
+https://www.elastic.co/pdf/elastic-guide-to-threat-hunting?ultron=rsa-2020&blade=twitter&hulk=social
+
+https://www.youtube.com/watch?v=ThHcP6wR_oc&feature=youtu.be
+
+https://www.youtube.com/watch?v=rXjm-iKeIlM&feature=youtu.be
+
 
 
 
@@ -729,6 +790,18 @@ https://www.phpsc.com.br/
 
 https://laravel.com/
 
+https://getcomposer.org/
+
+https://www.sequelpro.com/
+
+https://phpsp.github.io/php-guide-pt_BR/pages/php-basics.html
+
+https://github.com/ademarrohregger/php-guide-pt_BR
+
+
+
+
+
 
 
 
@@ -739,6 +812,11 @@ DataBase
 https://www.microsoft.com/en-us/sql-server/default.aspx
 
 https://dbdiagram.io/d
+
+
+
+
+
 
 
 QT
@@ -925,6 +1003,32 @@ https://themes.3rdwavemedia.com/bootstrap-templates/free/ more
 
 https://media.giphy.com/media/3oEjI9T0ixjZCFwi8U/giphy.gif free gif
 
+https://www.felipefialho.com/blog/do-zero-a-heroi-do-front-end-parte-1/
+
+https://youtu.be/RthGsZVPdOU
+
+https://www.upinside.com.br/beta/curso/devtools-essentials/estacao-de-trabalho-completa
+
+
+
+
+
+
+web marketing
+
+https://mailchimp.com/?gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIaC5zOFj_dwHE8Dcd_PuP0CYtGrfoT65dHr5smYfsLsXXoxi9247VEaAnT-EALw_wcB&gclsrc=aw.ds
+
+https://www.shopify.com/free-trial?&term=%2Bshopify&Network=Search&SiteTarget=&mt=b&adid=255925702938&adpos=&CampaignId=1081960995&branded_enterprise=1&BOID=brand&gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIYhs5CdmnJq8EaB14cNJNkd4_a5SnQ1OBoLEj1I4PZdsXFP7i4FSiwaAjxzEALw_wcB&gclsrc=aw.ds                  instagram connect sales
+
+https://www.getresponse.com/?serv=adwords&camp=Brand_World&kw=getresponse_miss&type=e&gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIY-B-Qqzo-yKLch0vSCj9hQkgqEdtylO4UKcBI8BrmwlrxFUcRkQyAaAmD4EALw_wcB
+
+https://www.youtube.com/watch?v=_v_HtlCrbBk&feature=youtu.be&utm_source=ActiveCampaign&utm_medium=email&utm_content=%F0%9F%94%B4+PAPO+WEB+AO+VIVO+-+J%C3%A1+vai+come%C3%A7ar++FIRSTNAME+%2C+vem+pra+c%C3%A1&utm_campaign=PAPO+WEB+-+044+%5BLIVE%5D
+
+
+
+
+
+
 
 
 python
@@ -991,6 +1095,14 @@ https://www.python.pro.br/modulos/python-birds/topicos/instalacao-mac
 https://jupyter.org/
 
 https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-y76xa714/lab
+
+https://towardsdatascience.com/optimise-your-todo-list-with-monte-carlo-simulations-in-python-1682a8a5eb84
+
+
+
+
+
+
 
 
 Rust
@@ -1148,6 +1260,79 @@ https://web.stanford.edu/class/cs253/
 
 https://gist.github.com/joepie91/5a9909939e6ce7d09e29
 
+https://www.mentebinaria.com.br/?_fromLogin=1
+
+https://www.darkreading.com/risk/securing-your-remote-workforce-a-coronavirus-guide-for-businesses-/a/d-id/1337398
+
+https://www.techrepublic.com/article/vpn-5-reasons-business-pros-should-always-use-one/
+
+https://www.darkreading.com/attacks-breaches/a-hackers-perspective-on-securing-vpns-as-you-go-remote/a/d-id/1337425
+
+
+https://www.youtube.com/watch?v=hqKafI7Amd8
+
+https://capturetheflag.com.br/login
+
+
+
+
+
+Oracle OCI
+
+https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorial-getting-started-autonomous-db-adw/index.html
+
+https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html
+
+
+
+
+Flutter
+
+https://linktr.ee/flutterando
+
+https://www.youtube.com/watch?v=yM3r846EOd0
+
+
+
+online coding tools
+
+https://dartpad.dev/flutter
+
+https://codepen.io/
+
+https://www.youtube.com/watch?v=LntSCE-L0xc&feature=youtu.be
+
+
+
+
+
+Software Quality
+
+
+https://commitlint.js.org/#/  
+
+https://github.com/commitizen
+
+https://semver.org/
+
+
+
+
+
+GCP
+
+
+https://cloud.google.com/compute/docs/containers/deploying-containers
+
+https://cloud.google.com/compute/docs/containers/deploying-containers#advantages
+
+https://cloud.google.com/compute/docs/containers
+
+
+
+
+
+
 
 
 
@@ -1161,6 +1346,21 @@ https://www.academia.edu/20580020/A_PRUD%C3%8ANCIA_POL%C3%8DTICA_NA_FILOSOFIA_DE
 
 https://www.mises.org.br/article/3149/e-facil-entender-por-que-os-jovens-dos-paises-mais-ricos-tendem-a-defender-mais-socialismo
 
+
+
+Canada
+
+https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/border-entry.html
+
+https://www.cic.gc.ca/lctvac/english/index
+
+https://www.jvstoronto.org/blog/ask-the-employment-specialist-formatting-tips-for-your-resume-and-cover-letter-how-to-use-headers-2/?utm_source=mailchimp&utm_campaign=resume_clinic&utm_medium=email&utm_content=lesson_1
+
+https://www.canada.ca/en/employment-social-development/services/sin/apply.html
+
+https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186-eng.html
+
+https://www.cic.gc.ca/lctvac/english/PA0009
 
 
 
