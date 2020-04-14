@@ -195,6 +195,14 @@ https://datasetsearch.research.google.com/
 https://en.m.wikipedia.org/wiki/Data_warehouse
 
 
+AWS
+
+https://aws.amazon.com/pt/blogs/aws-brasil/trabalhando-em-casa-veja-como-a-aws-pode-lhe-ajudar/
+
+
+
+
+
 Cloud arquitect
 
 https://aws.amazon.com/pt/architecture/icons/
@@ -203,7 +211,7 @@ https://cloudcraft.co/
 
 https://support.draw.io/display/DO/2014/10/06/Using+AWS+2.0+icons+to+create+free+Amazon+architecture+diagrams+in+draw.io
 
-https://aws.amazon.com/pt/blogs/aws-brasil/trabalhando-em-casa-veja-como-a-aws-pode-lhe-ajudar/
+
 
 
 
@@ -751,10 +759,16 @@ https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbx
 
 https://nodejs.org/en/download/package-manager/#macos
 
+https://www.twitch.tv/videos/591383540
+
+https://www.youtube.com/watch?v=QYR64dVRkWE
+
 
 
 
 API reference
+
+
 
 
 API lists
@@ -1098,7 +1112,7 @@ https://hub.gke.mybinder.org/user/jupyterlab-jupyterlab-demo-y76xa714/lab
 
 https://towardsdatascience.com/optimise-your-todo-list-with-monte-carlo-simulations-in-python-1682a8a5eb84
 
-
+https://www.youtube.com/watch?v=Xls9-5DnNLc&feature=youtu.be
 
 
 
