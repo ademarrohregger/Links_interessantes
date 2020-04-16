@@ -699,9 +699,6 @@ https://www.atlassian.com/git/tutorials/install-git?section=homebrew
 
 https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit?pli=1#slide=id.p      API create
 
-https://console.sa-saopaulo-1.oraclecloud.com/containers/clusters?cloudshell=true Oracle cloud trial
-
-https://learn.oracle.com/ols/course/oracle-cloud-infrastructure-architect-professional-workshop/35644/60999#
 
 https://www.cncf.io/
 
@@ -717,7 +714,13 @@ https://nginx.org/en/
 
 
 
+Oracle cloud OCL
 
+https://videohub.oracle.com/channel/Oracle%2BCloud%2B-%2BBrazil/158145621
+
+https://console.sa-saopaulo-1.oraclecloud.com/containers/clusters?cloudshell=true Oracle cloud trial
+
+https://learn.oracle.com/ols/course/oracle-cloud-infrastructure-architect-professional-workshop/35644/60999#
 
 
 
@@ -1296,6 +1299,12 @@ Oracle OCI
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorial-getting-started-autonomous-db-adw/index.html
 
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html
+
+
+
+IBM Cloud
+
+https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Socialhub&utm_content=000039ER&utm_term=10000197&utm_id=Cloud+Play+Organico+IBMers&cm_mmc=OSocial_Socialhub-_-Cloud+and+Data+Platform_IBM+Cloud-_-BR_BR-_-Cloud+Play+Organico+IBMers&cm_mmca1=000039ER&cm_mmca2=10000197
 
 
 
