@@ -1293,6 +1293,16 @@ https://capturetheflag.com.br/login
 
 
 
+GCP
+
+
+https://cloud.google.com/compute/docs/containers/deploying-containers
+
+https://cloud.google.com/compute/docs/containers/deploying-containers#advantages
+
+https://cloud.google.com/compute/docs/containers
+
+
 
 Oracle OCI
 
@@ -1306,7 +1316,7 @@ IBM Cloud
 
 https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Socialhub&utm_content=000039ER&utm_term=10000197&utm_id=Cloud+Play+Organico+IBMers&cm_mmc=OSocial_Socialhub-_-Cloud+and+Data+Platform_IBM+Cloud-_-BR_BR-_-Cloud+Play+Organico+IBMers&cm_mmca1=000039ER&cm_mmca2=10000197
 
-
+https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Socialhub&utm_content=000039ER&utm_term=10000197&utm_id=Cloud+Play+Organico+IBMers&cm_mmc=OSocial_Socialhub-_-Cloud+and+Data+Platform_IBM+Cloud-_-BR_BR-_-Cloud+Play+Organico+IBMers&cm_mmca1=000039ER&cm_mmca2=10000197#2311074
 
 
 Flutter
@@ -1342,14 +1352,6 @@ https://semver.org/
 
 
 
-GCP
-
-
-https://cloud.google.com/compute/docs/containers/deploying-containers
-
-https://cloud.google.com/compute/docs/containers/deploying-containers#advantages
-
-https://cloud.google.com/compute/docs/containers
 
 
 
