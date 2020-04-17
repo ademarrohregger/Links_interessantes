@@ -747,6 +747,7 @@ https://www.youtube.com/watch?v=rXjm-iKeIlM&feature=youtu.be
 
 https://techlipe.github.io/Guia-Completo-Elastic-Stack/
 
+https://www.elastic.co/guide/en/logstash/current/plugins-inputs-http_poller.html
 
 
 Node.js 
