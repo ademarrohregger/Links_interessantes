@@ -1064,6 +1064,7 @@ https://ferramentas.resultadosdigitais.com.br/ferramenta-jornada/
 
 https://geradordepersonas.com.br/
 
+https://www.katiejobling.com/
 
 
 
