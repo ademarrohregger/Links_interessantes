@@ -1037,6 +1037,10 @@ https://www.upinside.com.br/beta/curso/devtools-essentials/estacao-de-trabalho-c
 
 web marketing
 
+
+https://geradordepersonas.com.br/
+
+
 https://mailchimp.com/?gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIaC5zOFj_dwHE8Dcd_PuP0CYtGrfoT65dHr5smYfsLsXXoxi9247VEaAnT-EALw_wcB&gclsrc=aw.ds
 
 https://www.shopify.com/free-trial?&term=%2Bshopify&Network=Search&SiteTarget=&mt=b&adid=255925702938&adpos=&CampaignId=1081960995&branded_enterprise=1&BOID=brand&gclid=Cj0KCQjwm9D0BRCMARIsAIfvfIYhs5CdmnJq8EaB14cNJNkd4_a5SnQ1OBoLEj1I4PZdsXFP7i4FSiwaAjxzEALw_wcB&gclsrc=aw.ds                  instagram connect sales
@@ -1057,6 +1061,9 @@ https://br.wordpress.org/plugins/wordpress-seo/
 https://wordpress.org/plugins/rock-convert/
 
 https://ferramentas.resultadosdigitais.com.br/ferramenta-jornada/
+
+https://geradordepersonas.com.br/
+
 
 
 
