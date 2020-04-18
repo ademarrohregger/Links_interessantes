@@ -1052,7 +1052,7 @@ https://stage.rockcontent.com/performance/br/ademar.enersys.com.br
 
 https://signup.iclips.com.br/
 
-
+https://br.wordpress.org/plugins/wordpress-seo/
 
 python
 
