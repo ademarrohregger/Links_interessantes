@@ -1056,7 +1056,7 @@ https://br.wordpress.org/plugins/wordpress-seo/
 
 https://wordpress.org/plugins/rock-convert/
 
-
+https://ferramentas.resultadosdigitais.com.br/ferramenta-jornada/
 
 
 
