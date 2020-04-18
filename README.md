@@ -1046,9 +1046,9 @@ https://www.getresponse.com/?serv=adwords&camp=Brand_World&kw=getresponse_miss&t
 https://www.youtube.com/watch?v=_v_HtlCrbBk&feature=youtu.be&utm_source=ActiveCampaign&utm_medium=email&utm_content=%F0%9F%94%B4+PAPO+WEB+AO+VIVO+-+J%C3%A1+vai+come%C3%A7ar++FIRSTNAME+%2C+vem+pra+c%C3%A1&utm_campaign=PAPO+WEB+-+044+%5BLIVE%5D
 
 
+https://thetool.io/2017/seo-for-mobile-apps
 
-
-
+https://stage.rockcontent.com/performance/br/ademar.enersys.com.br
 
 
 
@@ -1146,7 +1146,7 @@ https://kotlinlang.org/
 
 https://developer.android.com/jetpack/compose
 
-https://thetool.io/2017/seo-for-mobile-apps
+
 
 
 
