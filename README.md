@@ -1030,7 +1030,7 @@ https://youtu.be/RthGsZVPdOU
 
 https://www.upinside.com.br/beta/curso/devtools-essentials/estacao-de-trabalho-completa
 
-
+https://search.google.com/ SEO google search analyzing
 
 
 
