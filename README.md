@@ -1086,6 +1086,15 @@ Alt text tester (it is a chrome extension which help you to find which image is 
 
 https://blog.contentools.com.br/inside-contentools-br/palavras-chave-lsi-para-um-seo-mais-avancado/
 
+https://github.com/ademarrohregger/open-graph-protocol-examples/blob/master/index.html
+
+https://tableless.com.br/utilizando-meta-tags-facebook/
+
+
+
+
+
+
 
 
 
@@ -1183,7 +1192,7 @@ https://kotlinlang.org/
 
 https://developer.android.com/jetpack/compose
 
-
+https://www.youtube.com/watch?v=zP7zPCQOdJk
 
 
 
