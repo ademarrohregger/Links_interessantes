@@ -1084,7 +1084,7 @@ Link clump (it is alsona chrome extension which helps you in opening bulk links 
 Nightwatch search simulator ( it is also a chrome extension which will helps you in checking ranking for your keyword, by just putting keyword, link of website and country you can search on which rank your website is ranking.)
 Alt text tester (it is a chrome extension which help you to find which image is not having alt text in it.)
 
-
+https://blog.contentools.com.br/inside-contentools-br/palavras-chave-lsi-para-um-seo-mais-avancado/
 
 
 
