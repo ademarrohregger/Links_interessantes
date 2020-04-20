@@ -1030,7 +1030,6 @@ https://youtu.be/RthGsZVPdOU
 
 https://www.upinside.com.br/beta/curso/devtools-essentials/estacao-de-trabalho-completa
 
-https://search.google.com/ SEO google search analyzing
 
 
 
@@ -1065,6 +1064,28 @@ https://ferramentas.resultadosdigitais.com.br/ferramenta-jornada/
 https://geradordepersonas.com.br/
 
 https://www.katiejobling.com/
+
+https://search.google.com/ SEO google search analyzing
+
+https://yoast.com/wordpress-seo/ for wordpress
+
+If you are non-wordpress  use :
+
+https://marketingplatform.google.com/home?authuser=0&utm_campaign=SuiteHeader&utm_source=GmpProductSwitcher&utm_medium=platformHomeButton
+
+Uber suggest (the best tool for keyword research and also to get content idea as well. It will also help in doing audit if your website )
+Screaming frog ( Its free version will allow you to audit upto 500 urls of you website, with this you can do an indepth audit of your website.)
+Keyword surfer ( its a chrome extension and the best alternative for keyword everywhere it will helps you to get keyword suggestions as well as volume.)
+SEO Quake (its a chrome extension which helps you to check your keyword density as well as you can check the location of that ip address on which website is running by using Whois.)
+SEO Minion (its a chrome extension which helps you to analysis on page factors of your website eg title, description, headlines etc.)
+Google trends (will allow you to check between similar keywords as which are in trend right now as which are getting searches over google as query, you can compare keywords.)
+Streak for gmail ( its an add on for gmail which allows you to check the read reciept for the mails you have sended for outreach purpose.)
+Link clump (it is alsona chrome extension which helps you in opening bulk links by pressing combinations of keys.)
+Nightwatch search simulator ( it is also a chrome extension which will helps you in checking ranking for your keyword, by just putting keyword, link of website and country you can search on which rank your website is ranking.)
+Alt text tester (it is a chrome extension which help you to find which image is not having alt text in it.)
+
+
+
 
 
 
