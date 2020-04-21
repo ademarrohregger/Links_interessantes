@@ -20,6 +20,13 @@ https://ed.ted.com/lessons/how-you-can-use-impostor-syndrome-to-your-benefit-mik
 IT jobs reference
 
 
+https://github.com/fdupuis659/LinkedIn-Automatic-Job-Applier
+
+https://www.youtube.com/watch?v=j37IGnnImv4
+
+https://github.com/ademarrohregger/LinkedIn-Easy-Apply-Bot
+
+
 https://www.bba.ca/careers/jobs-and-internship/?addr=https://bba.cvmanager.com/cvm5/displaydetail.aspx?tn=jobs&mode=view&recid=4070&lang=e&region=qc&tp1=jobdetail&rd=1
 
 https://www.bba.ca/careers/jobs-and-internship/?addr=https://bba.cvmanager.com/cvm5/displaydetail.aspx?tn=jobs&mode=view&recid=4071&lang=e&region=qc&tp1=jobdetail&rd=1
@@ -59,6 +66,12 @@ https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZTKdMpwKFRvRThthSpMNTsw
 https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZTKdMpwKFRvRThthSpMNTsw
 
 https://mail.google.com/mail/u/0/#inbox/FMfcgxwHMZLFXxdgpjMSlXwqqrjHnfsq
+
+https://www.youtube.com/watch?v=e0Nj_eYDj2s&pbjreload=10
+
+https://www.youtube.com/watch?v=LZZ7iNxccpA&feature=youtu.be
+
+
 
 
 
@@ -113,8 +126,6 @@ https://en.wikipedia.org/wiki/Glue_code
 https://en.wikipedia.org/wiki/Application_programming_interface
 
 https://www.sitepoint.com/developers-rest-api/
-
-https://iiot-world.com/
 
 https://en.wikipedia.org/wiki/Pipeline_(software)
 
@@ -193,26 +204,6 @@ https://www.brasil.io/home
 https://datasetsearch.research.google.com/
 
 https://en.m.wikipedia.org/wiki/Data_warehouse
-
-
-AWS
-
-https://aws.amazon.com/pt/blogs/aws-brasil/trabalhando-em-casa-veja-como-a-aws-pode-lhe-ajudar/
-
-
-
-
-
-Cloud arquitect
-
-https://aws.amazon.com/pt/architecture/icons/
-
-https://cloudcraft.co/
-
-https://support.draw.io/display/DO/2014/10/06/Using+AWS+2.0+icons+to+create+free+Amazon+architecture+diagrams+in+draw.io
-
-
-
 
 
 Machine learning
@@ -318,7 +309,7 @@ https://www.netacad.com/pt-br/courses/security/cybersecurity-essentials
 
 https://www.netacad.com/pt-br/courses/security/introduction-cybersecurity
 
-https://aws.amazon.com/pt/blogs/aws-brasil/urgente-e-importante-rotacione-seus-certificados-do-amazon-rds-aurora-e-amazon-documentdb-com-compatibilidade-com-o-mongodb/
+
 
 https://www.udemy.com/course/curso-de-seguranca-em-nuvem/
 
@@ -350,6 +341,8 @@ https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html Project Omega 2
 
 
 Security cast
+
+
 https://github.com/salesforce/ja3
 https://www.thec2matrix.com/matrix
 https://github.com/byt3bl33d3r/SILENTTRINITY
@@ -391,7 +384,7 @@ https://calculator.aws/#/
 
 https://www.atlassian.com/
 
-
+https://www.youtube.com/watch?v=GkunWTgUJ44&feature=youtu.be
 
 https://temp-mail.org/pt/?__cf_chl_jschl_tk__=95c7f7fd5b025a13ac45e72984fad290062e3f6e-1583203859-0-AexU4E44y0UCMLuMwAVKNkMIH90_eKdG5Wm4Easn4RSBlVgGfwWC8obvXx4ggmyDjL-QClWJnO4LDMJFK-NvHge8k7p8sVglsAwvzOWW_KHI4R75i9vN_7UnnhdEqZeduOo6NHopUH7o1XesX9cHRQuxAE0TZWnlsiZVXOICvZZMUd8XARtjFfCOulLPancuvd0rjKVh4dExQ67C6sk3S20sNXWodfZCPq5ViVAP30ZUqGGmeKU90uENDjcbOD4noH1j8dSUrCLk7kMyeZSdc4E temp email
 
@@ -427,6 +420,8 @@ https://m.twitch.tv/nahamsec/profile
   https://portswigger.net/web-security
   
    https://pentesterlab.com
+   
+   https://www.hackthebox.eu/
    
     https://hackerone.com/hacktivity
 
@@ -523,9 +518,9 @@ https://www.swift.com/your-needs/industry-themes/distributed-ledger-technology-d
 
 https://www.freecodecamp.org/learn/?messages=success%5B0%5D%3DSuccess%2521%2520You%2520have%2520signed%2520in%2520to%2520your%2520account.%2520Happy%2520Coding%2521
 
+https://www.upinside.com.br/
 
-
-
+https://pt.coursera.org/ita
 
 Ansible 
 
@@ -566,6 +561,9 @@ https://youtu.be/RthGsZVPdOU
 
 https://octant.dev/
 
+https://rancher.com/
+
+https://helm.sh/
 
 
 
@@ -584,7 +582,6 @@ https://www.selenium.dev/documentation/en/webdriver/
 
 https://www.gurock.com/testrail/agile-testing?utm_source=adwords&utm_medium=cpc&utm_campaign=bing-USA_CAN_en_Generic&utm_content=agile%20testing&msclkid=41de9cebc8d71747e8fac2ba566919ce
 
-https://docs.microsoft.com/en-us/azure/devops/test/mtm/run-manual-tests-with-microsoft-test-manager?view=azure-devops
 
 https://github.com/ademarrohregger/testlink-code
 
@@ -700,9 +697,6 @@ https://www.atlassian.com/git
 
 https://www.atlassian.com/git/tutorials/install-git?section=homebrew
 
-https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit?pli=1#slide=id.p      API create
-
-
 https://www.cncf.io/
 
 https://www.gitops.tech/
@@ -715,6 +709,43 @@ https://www.envoyproxy.io/
 
 https://nginx.org/en/
 
+https://www.youtube.com/watch?v=XGSuK8kyGag&feature=youtu.be
+
+
+
+
+
+AWS
+
+https://pages.awscloud.com/cost-optimization-br-2020.html?aliId=eyJpIjoiSzVMTVUrWE5GeER6V1pLVSIsInQiOiJpTGZ0enRVWEVqOWUwcUJOeEN4QlFBPT0ifQ%253D%253D
+
+https://aws.amazon.com/pt/blogs/aws-brasil/trabalhando-em-casa-veja-como-a-aws-pode-lhe-ajudar/
+
+https://aws.amazon.com/pt/blogs/aws-brasil/urgente-e-importante-rotacione-seus-certificados-do-amazon-rds-aurora-e-amazon-documentdb-com-compatibilidade-com-o-mongodb/
+
+https://www.freecodecamp.org/news/pass-the-aws-developer-associate-exam-with-this-free-16-hour-course/
+
+
+Cloud arquitect
+
+https://aws.amazon.com/pt/architecture/icons/
+
+https://cloudcraft.co/
+
+https://support.draw.io/display/DO/2014/10/06/Using+AWS+2.0+icons+to+create+free+Amazon+architecture+diagrams+in+draw.io
+
+
+
+
+
+Azure
+
+
+https://www.youtube.com/watch?v=Pr8VrBYBpgo&feature=youtu.be CRUD + Node.js + PostGreSQL + Azure
+
+https://docs.microsoft.com/en-us/azure/devops/test/mtm/run-manual-tests-with-microsoft-test-manager?view=azure-devops
+
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing
 
 
 Oracle cloud OCL
@@ -752,6 +783,9 @@ https://techlipe.github.io/Guia-Completo-Elastic-Stack/
 
 https://www.elastic.co/guide/en/logstash/current/plugins-inputs-http_poller.html
 
+https://medium.com/@ibrahim.ayadhi97/deploying-of-infrastructure-and-technologies-for-a-soc-as-a-service-socass-8e1bbb885149
+
+
 
 Node.js 
 
@@ -772,13 +806,17 @@ https://www.youtube.com/watch?v=QYR64dVRkWE
 
 
 
+API
 
-API reference
+https://www.postman.com/webinars/enterprise-ecommerce-webinar
+
+https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit?pli=1#slide=id.p      API create
 
 
 
 
 API lists
+
 https://www.programmableweb.com/category-api
 
 https://apilist.fun/
@@ -834,7 +872,7 @@ https://www.microsoft.com/en-us/sql-server/default.aspx
 
 https://dbdiagram.io/d
 
-
+https://www.youtube.com/watch?v=dZBwvotGDbo&feature=youtu.be
 
 
 
@@ -849,7 +887,6 @@ https://bluerobotics.com/store/rov/bluerov2/
 
 https://pypi.org/project/PySide2/
 
-https://doc.qt.io/qtforpython/tutorials/qmlapp/qmlapplication.html
 
 
 
@@ -899,7 +936,9 @@ https://frata.com.br/weg-compra-empresa-de-telemedicao-para-sistemas-de-energia-
 
 https://web.archive.org/web/20190718200516/https://www.semtech.com/uploads/documents/an1200.22.pdf
 
+https://www.youtube.com/watch?v=7XwF8VLvSvM
 
+https://iiot-world.com/
 
 
 
@@ -928,7 +967,9 @@ https://www.projectsmart.co.uk/earned-value-management-explained.php
 https://www.google.com/search?client=firefox-b-d&q=arned+Value+Management+Systems
 
 
+back end
 
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/
 
 
 
@@ -947,7 +988,7 @@ https://hackernoon.com/should-i-learn-elm-if-i-am-a-javascript-developer-fba282c
 
 https://elmprogramming.com/why-elm.html
 
-https://reactjs.org/
+https://www.lipsum.com/ Lorem ipsum
 
 https://codepen.io/
 
@@ -1009,11 +1050,6 @@ https://www.svgbackgrounds.com/
 
 https://www.hostinger.com.br/tutoriais/o-que-e-vps-como-escolher-um-servidor-vps
 
-
-https://www.bravostudio.app/ web app builder
-
-https://www.youtube.com/watch?v=y5B0MXmt428  React, babel, webpack
-
 https://criarvideosanimados.com.br/?ref=N7002829K
 
 https://www.gatsbyjs.org/
@@ -1037,6 +1073,26 @@ https://getgrav.org/
 https://www.optimizely.com/optimization-glossary/content-management-system/
 
 
+
+React
+
+https://www.youtube.com/watch?v=W6BzxdHBBHM&feature=youtu.be
+
+https://reactjs.org/
+
+https://www.youtube.com/watch?v=y5B0MXmt428  React, babel, webpack
+
+https://ionicframework.com/
+
+https://reactnative.dev/
+
+https://www.freecodecamp.org/news/how-to-style-your-react-apps-with-less-code-using-tailwind-css-and-styled-components/
+
+
+
+angular
+
+https://www.youtube.com/watch?v=nFK7uGzU81U&feature=youtu.be
 
 
 
@@ -1096,9 +1152,12 @@ https://github.com/ademarrohregger/open-graph-protocol-examples/blob/master/inde
 
 https://tableless.com.br/utilizando-meta-tags-facebook/
 
+https://www.youtube.com/watch?v=g3bzF3j0v78&feature=youtu.be
 
 
+https://yoast.com/help/
 
+https://register.gotowebinar.com/recording/viewRecording/6971935468115536651/1673358147697561606/ademar.rohregger@gmail.com?registrantKey=6317088332964080909&type=ATTENDEEEMAILRECORDINGLINK
 
 
 
@@ -1174,6 +1233,12 @@ https://towardsdatascience.com/optimise-your-todo-list-with-monte-carlo-simulati
 https://www.youtube.com/watch?v=Xls9-5DnNLc&feature=youtu.be
 
 http://www.pythontutor.com/
+
+https://www.youtube.com/watch?v=9Wltwbe3N2Y&feature=youtu.be
+
+https://www.youtube.com/watch?v=HKSUPdcK7OU&feature=youtu.be
+
+https://doc.qt.io/qtforpython/tutorials/qmlapp/qmlapplication.html
 
 
 
@@ -1262,14 +1327,43 @@ https://www.aquare.la/en/
 
 https://en.wikipedia.org/wiki/Apache_Hadoop
 
+https://www.youtube.com/watch?v=iaeLv-ilMA0&feature=youtu.be
+
+https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=youtu.be
+
+https://qoda.com.br/projeto-data-science-do-zero-com-python-r-e-javascript-dia1/
 
 
+
+web app
+
+
+https://www.bravostudio.app/ web app builder
+
+https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
+
+https://www.nativescript.org/
+
+https://ionicframework.com/
+
+https://reactnative.dev/
+
+https://dotnet.microsoft.com/apps/xamarin
+
+https://platform.uno/
+
+https://kotlinlang.org/docs/reference/native-overview.html
+
+https://linktr.ee/flutterando
+
+https://www.youtube.com/watch?v=yM3r846EOd0
+
+https://superpwa.com/doc/test-pwa-ios-devices/
+
+https://www.freecodecamp.org/news/how-to-style-your-react-apps-with-less-code-using-tailwind-css-and-styled-components/
 
 
 games
-
-
-
 https://www.razer.com/ca-en
 
 https://aws.amazon.com/pt/lumberyard/downloads/
@@ -1358,6 +1452,12 @@ https://cloud.google.com/compute/docs/containers/deploying-containers#advantages
 
 https://cloud.google.com/compute/docs/containers
 
+https://go.qwiklabs.com/cloud-study-jams-2020
+
+https://google.qwiklabs.com/quests/23
+
+
+
 
 
 Oracle OCI
@@ -1366,6 +1466,7 @@ https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorial-g
 
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html
 
+https://education.oracle.com/pt_BR/?source=:em:eo:ie:cpo:RC_NAMK200410P00020:SEV400046743
 
 
 IBM Cloud
@@ -1374,16 +1475,11 @@ https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Soci
 
 https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Socialhub&utm_content=000039ER&utm_term=10000197&utm_id=Cloud+Play+Organico+IBMers&cm_mmc=OSocial_Socialhub-_-Cloud+and+Data+Platform_IBM+Cloud-_-BR_BR-_-Cloud+Play+Organico+IBMers&cm_mmca1=000039ER&cm_mmca2=10000197#2311074
 
-
-Flutter
-
-https://linktr.ee/flutterando
-
-https://www.youtube.com/watch?v=yM3r846EOd0
+https://www.crowdcast.io/e/3part-watson-ai-technology-series/register?session=1
 
 
 
-online coding tools
+online coding (code) tools
 
 https://dartpad.dev/flutter
 
@@ -1391,8 +1487,13 @@ https://codepen.io/
 
 https://www.youtube.com/watch?v=LntSCE-L0xc&feature=youtu.be
 
+https://ghostbin.co/
 
 
+
+codewars
+
+https://www.codewars.com/
 
 
 Software Quality
@@ -1404,6 +1505,23 @@ https://github.com/commitizen
 
 https://semver.org/
 
+https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/
+
+
+
+
+
+C++ cpp
+
+https://www.youtube.com/playlist?list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
+
+https://www.youtube.com/playlist?list=PL2D1942A4688E9D63
+
+https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb
+
+https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M
+
+https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
 
 
 
@@ -1412,6 +1530,17 @@ https://semver.org/
 
 
 
+Matlab
+
+https://matlabacademy.mathworks.com/R2019b/portal.html?course=gettingstarted#chapter=3&lesson=1&section=1
+
+
+
+Labview
+
+http://mywebpage.ni.com/example-labview-evaluation-sample-code-measurement-en?espuid=CNATL000026800358&cid=Direct_Marketing-a240Z0000045OsuQAE-Lead%20Generation-em122873
+
+http://www.ni.com/tutorial/52006/pt/?espuid=CNATL000026800358&cid=Direct_Marketing-a240Z0000045OsuQAE-Lead%20Generation-em120565
 
 
 
@@ -1429,7 +1558,7 @@ https://www.mises.org.br/article/3149/e-facil-entender-por-que-os-jovens-dos-pai
 
 
 
-Canada
+Canada & Fanshawe
 
 https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/border-entry.html
 
@@ -1443,6 +1572,15 @@ https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186-eng.html
 
 https://www.cic.gc.ca/lctvac/english/PA0009
 
+https://www.fanshawec.ca/about-fanshawe/contact/experience-fanshawe-college-online
+
+smalhotra@fanshawec.calas  doubts 
+
+
+
+Coronavirus COVID19
+
+https://lbry.tv/@Movies:3c/The-first-documentary-movie-on-CCP-virus,-Tracking-Down-the-Origin-of-the-Wuhan-Coronavirus.covid19:d
 
 
 
