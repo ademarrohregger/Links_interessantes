@@ -1088,7 +1088,13 @@ https://reactnative.dev/
 
 https://www.freecodecamp.org/news/how-to-style-your-react-apps-with-less-code-using-tailwind-css-and-styled-components/
 
+https://www.youtube.com/playlist?list=PL85ITvJ7FLohhULgUFkYBf2xcXCG6yfVV
 
+https://www.youtube.com/playlist?list=PL85ITvJ7FLohsxmDUz0GBjK51S-ZMkAAB
+
+https://www.youtube.com/playlist?list=PL85ITvJ7FLoiNndfuEs2So-MFLSMvBmmD
+
+https://www.youtube.com/playlist?list=PL85ITvJ7FLohPEPL9HgcSBOhjpiFYZOlG
 
 angular
 
