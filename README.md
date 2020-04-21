@@ -1401,9 +1401,9 @@ https://firebase.google.com/
 
 https://prismic.io/
 
+https://www.cloudflare.com/pt-br/lp/overview-a/
 
-
-
+https://www.smashingmagazine.com/2020/04/web-app-headless-cms-react/
 
 
 
