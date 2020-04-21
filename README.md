@@ -1345,6 +1345,8 @@ https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=youtu.be
 https://qoda.com.br/projeto-data-science-do-zero-com-python-r-e-javascript-dia1/
 
 
+https://databricks.com/try-databricks?utm_medium=cpc&utm_source=google&utm_campaign=8984002507&utm_offer=try-databricks&utm_content=trial&gclid=Cj0KCQjws_r0BRCwARIsAMxfDRh6R2ticEsdseSoynBNRfYWLkxD72_ctB57537L2x7X7E6IZbzAMXsaAjOJEALw_wcB
+
 
 web app
 
