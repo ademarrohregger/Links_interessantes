@@ -293,7 +293,6 @@ https://pypi.org/project/bandit/
 
 https://jwt.io/introduction/
 
-https://auth0.com/ login/acess for free
 
 https://andersbrownworth.com/ blockchain demo
 
@@ -1096,6 +1095,12 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLoiNndfuEs2So-MFLSMvBmmD
 
 https://www.youtube.com/playlist?list=PL85ITvJ7FLohPEPL9HgcSBOhjpiFYZOlG
 
+https://www.gatsbyjs.org/
+
+https://auth0.com/
+
+
+
 angular
 
 https://www.youtube.com/watch?v=nFK7uGzU81U&feature=youtu.be
@@ -1367,6 +1372,39 @@ https://www.youtube.com/watch?v=yM3r846EOd0
 https://superpwa.com/doc/test-pwa-ios-devices/
 
 https://www.freecodecamp.org/news/how-to-style-your-react-apps-with-less-code-using-tailwind-css-and-styled-components/
+
+https://stripe.com/en-br
+
+https://paddle.com/
+
+https://auth0.com/ login/acess for free
+
+https://www.gatsbyjs.org/
+
+https://jamstack.org/
+
+https://strapi.io/
+
+https://postmarkapp.com/
+
+https://www.mailgun.com/
+
+https://getform.io/
+
+https://usefathom.com/
+
+https://nextjs.org/
+
+https://snipcart.com/
+
+https://firebase.google.com/
+
+https://prismic.io/
+
+
+
+
+
 
 
 games
