@@ -943,7 +943,9 @@ https://www.youtube.com/watch?v=7XwF8VLvSvM
 
 https://iiot-world.com/
 
+https://docs.m5stack.com/#/en/core/m5stickc
 
+https://www.freertos.org/
 
 
 business management
