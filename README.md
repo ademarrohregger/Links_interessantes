@@ -1099,6 +1099,9 @@ https://www.gatsbyjs.org/
 
 https://auth0.com/
 
+ https://mobirise.com/ webpage wo code
+
+https://www.canva.com/  design logos, flyer, etc
 
 
 angular
@@ -1522,6 +1525,13 @@ https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Soci
 https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Socialhub&utm_content=000039ER&utm_term=10000197&utm_id=Cloud+Play+Organico+IBMers&cm_mmc=OSocial_Socialhub-_-Cloud+and+Data+Platform_IBM+Cloud-_-BR_BR-_-Cloud+Play+Organico+IBMers&cm_mmca1=000039ER&cm_mmca2=10000197#2311074
 
 https://www.crowdcast.io/e/3part-watson-ai-technology-series/register?session=1
+
+
+
+SAAS
+
+https://www.akamai.com/br/pt/what-we-do/world-class-digital-experiences.jsp
+
 
 
 
