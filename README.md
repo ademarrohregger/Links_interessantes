@@ -43,7 +43,6 @@ https://www.tenchisecurity.com/
 
 http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4783122D0
 
-https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test-project?view=vs-2019
 
 https://www.algoexpert.io/questions
 
@@ -1605,7 +1604,9 @@ https://loadimpact.com/
 
 https://loader.io/
 
+https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test-project?view=vs-2019
 
+https://locust.io/
 
 
 virus
