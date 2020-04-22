@@ -194,7 +194,7 @@ https://haxe.org/ trans piler language (compiler 2 another language )
 Power BI & similaries
 
 
-https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated
+
 
 https://www.opservices.com/magic-quadrant-of-gartner/
 
@@ -211,7 +211,9 @@ https://www.qlik.com/us
 
 Machine learning
 
+https://www.kaggle.com/camnugent/california-housing-prices/version/1
 
+https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated
 
 https://www.tensorflow.org/
 
