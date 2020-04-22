@@ -20,6 +20,8 @@ https://ed.ted.com/lessons/how-you-can-use-impostor-syndrome-to-your-benefit-mik
 IT jobs reference
 
 
+https://www.hexacta.com.br/quality-engineer-qa-sr/
+
 https://github.com/fdupuis659/LinkedIn-Automatic-Job-Applier
 
 https://www.youtube.com/watch?v=j37IGnnImv4
@@ -190,7 +192,7 @@ https://towardsdatascience.com/ten-tips-to-save-you-time-and-frustration-when-pr
 https://haxe.org/ trans piler language (compiler 2 another language )
 
 
-Power BI
+Power BI & similaries
 
 
 https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated
@@ -204,6 +206,8 @@ https://www.brasil.io/home
 https://datasetsearch.research.google.com/
 
 https://en.m.wikipedia.org/wiki/Data_warehouse
+
+https://www.qlik.com/us
 
 
 Machine learning
@@ -965,6 +969,10 @@ https://www.projectsmart.co.uk/earned-value-management-explained.php
 
 https://www.google.com/search?client=firefox-b-d&q=arned+Value+Management+Systems
 
+https://allsourcecode.com/jevelin-v4-6-6-multi-purpose-premium-responsive-theme/
+
+
+
 
 back end
 
@@ -1337,6 +1345,8 @@ http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-p
 
 http://datascienceacademy.com.br/blog/o-que-faz-um-engenheiro-de-dados/
 
+https://leandrotk.github.io/tk/2020/04/react-hooks-context-api-and-pokemons/index.html
+
 https://www.aquare.la/en/
 
 https://en.wikipedia.org/wiki/Apache_Hadoop
@@ -1349,6 +1359,8 @@ https://qoda.com.br/projeto-data-science-do-zero-com-python-r-e-javascript-dia1/
 
 
 https://databricks.com/try-databricks?utm_medium=cpc&utm_source=google&utm_campaign=8984002507&utm_offer=try-databricks&utm_content=trial&gclid=Cj0KCQjws_r0BRCwARIsAMxfDRh6R2ticEsdseSoynBNRfYWLkxD72_ctB57537L2x7X7E6IZbzAMXsaAjOJEALw_wcB
+
+
 
 
 web app
@@ -1418,6 +1430,9 @@ https://www.razer.com/ca-en
 https://aws.amazon.com/pt/lumberyard/downloads/
 
 
+github
+
+https://jorisroovers.com/gitlint/
 
 
 
@@ -1580,8 +1595,20 @@ https://www.youtube.com/playlist?list=PLGLfVvz_LVvQ9S8YSV0iDsuEU8v11yP9M
 https://www.youtube.com/playlist?list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1
 
 
+Load test
+
+https://github.com/tsenart/vegeta
+
+https://loadimpact.com/
+
+https://loader.io/
 
 
+
+
+virus
+
+https://www.virustotal.com/gui/home/upload
 
 
 
