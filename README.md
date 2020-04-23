@@ -229,6 +229,10 @@ https://www.youtube.com/watch?v=vSMhLP7r7w8&feature=youtu.be   9o meetup
 
 https://geam.paginas.ufsc.br/curso-laboratorio-de-machine-learning/
 
+https://www.youtube.com/user/cs50tv/featured CS50 MIT course Python ML
+
+
+
 
 
 
@@ -342,6 +346,11 @@ https://pastehunter.com/
 https://buckets.grayhatwarfare.com/
 
 https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html Project Omega 2 -learning aws
+
+https://youtu.be/zgIjemz3cpU
+
+
+
 
 
 Security cast
@@ -469,8 +478,6 @@ free courses
 
 
 https://moodle.ifrs.edu.br/course/index.php?categoryid=38
-
-https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
 
 https://www.freecodecamp.org/
 
@@ -621,8 +628,9 @@ https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test
 
 https://jmeter.apache.org/
 
+https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
 
-
+https://youtu.be/7Ok6BycD1co
 
 
 
@@ -1086,6 +1094,11 @@ https://www.collab.com/pt-br/
 
 https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css/#exibindo-informaes-na-web
 
+https://formspree.io/ Forms
+
+https://www.staticforms.xyz/ Forms
+
+
 
 
 
@@ -1121,6 +1134,9 @@ https://auth0.com/
  https://mobirise.com/ webpage wo code
 
 https://www.canva.com/  design logos, flyer, etc
+
+
+
 
 
 angular
@@ -1273,7 +1289,7 @@ https://www.youtube.com/watch?v=HKSUPdcK7OU&feature=youtu.be
 
 https://doc.qt.io/qtforpython/tutorials/qmlapp/qmlapplication.html
 
-
+https://www.youtube.com/user/cs50tv/featured CS50 MIT course Python ML
 
 
 Rust
