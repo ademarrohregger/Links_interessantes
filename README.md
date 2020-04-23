@@ -345,7 +345,7 @@ https://github.com/toniblyx/prowler
 
 https://pastehunter.com/
 
-https://buckets.grayhatwarfare.com/
+https://buckets.grayhatwarfare.com/  to search open buckets
 
 https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html Project Omega 2 -learning aws
 
@@ -1575,6 +1575,9 @@ https://www.crowdcast.io/e/3part-watson-ai-technology-series/register?session=1
 SAAS
 
 https://www.akamai.com/br/pt/what-we-do/world-class-digital-experiences.jsp
+
+
+code as infra
 
 
 
