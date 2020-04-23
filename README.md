@@ -1082,9 +1082,17 @@ https://getgrav.org/
 
 https://www.optimizely.com/optimization-glossary/content-management-system/
 
+https://www.collab.com/pt-br/
+
+https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css/#exibindo-informaes-na-web
+
+
+
 
 
 React
+
+
 
 https://www.youtube.com/watch?v=W6BzxdHBBHM&feature=youtu.be
 
