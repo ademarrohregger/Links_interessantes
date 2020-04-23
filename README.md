@@ -89,6 +89,8 @@ https://dash.cloudflare.com/557bbd97dbf54d9ed78893ad9122a444/enersys.com.br/ssl-
 
 weblink
 
+https://blog.pitchme.co/2020/04/22/how-to-optimise-your-digital-footprint-a-guide-for-it-professionals-by-pitchme/
+
 
 
 
@@ -349,7 +351,7 @@ https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html Project Omega 2
 
 https://youtu.be/zgIjemz3cpU
 
-
+https://www.techrepublic.com/article/ransomware-why-smbs-are-especially-vulnerable-to-attacks/#ftag=RSS56d97e7
 
 
 
@@ -760,7 +762,7 @@ https://docs.microsoft.com/en-us/azure/devops/test/mtm/run-manual-tests-with-mic
 https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing
 
 
-Oracle cloud OCL
+Oracle cloud OCI
 
 https://videohub.oracle.com/channel/Oracle%2BCloud%2B-%2BBrazil/158145621
 
@@ -768,7 +770,7 @@ https://console.sa-saopaulo-1.oraclecloud.com/containers/clusters?cloudshell=tru
 
 https://learn.oracle.com/ols/course/oracle-cloud-infrastructure-architect-professional-workshop/35644/60999#
 
-
+https://drive.google.com/drive/folders/1PUCHB9OjucicEsY27LomRGZ9YFgekANf
 
 ELK Elastisearch
 
@@ -1131,7 +1133,7 @@ https://www.gatsbyjs.org/
 
 https://auth0.com/
 
- https://mobirise.com/ webpage wo code
+ https://mobirise.com/ webpage wo code WEB DESIGNER FAST NO CODE FOR BINA LIKE
 
 https://www.canva.com/  design logos, flyer, etc
 
