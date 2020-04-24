@@ -353,7 +353,11 @@ https://youtu.be/zgIjemz3cpU
 
 https://www.techrepublic.com/article/ransomware-why-smbs-are-especially-vulnerable-to-attacks/#ftag=RSS56d97e7
 
+https://bigorange.cloud/actions/   to describe security policy
 
+aws --no-sign-request s3 ls s3://webinarbuckers32  to see some public s3 bucket
+
+https://shhgit.darkport.co.uk/ to search keys
 
 Security cast
 
