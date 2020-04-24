@@ -245,7 +245,9 @@ https://blog.mastertech.com.br/tecnologia/o-que-e-java-e-o-que-posso-fazer-com-i
 
 https://netbeans.apache.org/
 
+https://clojure.org/
 
+https://groovy-lang.org/
 
 
 
@@ -539,6 +541,9 @@ https://www.upinside.com.br/
 
 https://pt.coursera.org/ita
 
+
+
+
 Ansible 
 
 
@@ -581,6 +586,8 @@ https://octant.dev/
 https://rancher.com/
 
 https://helm.sh/
+
+
 
 
 
@@ -638,6 +645,8 @@ https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
 
 https://youtu.be/7Ok6BycD1co
 
+https://github.com/huginn/huginn
+
 
 
 metrics & time series
@@ -688,10 +697,6 @@ https://hadoop.apache.org/ Distributed computing
 https://www.litho.cc/products/lithoandsdk AR
 
 https://graphql.org/
-
-https://www.terraform.io/index.html
-
-https://app.terraform.io/session
 
 https://www.hashicorp.com/
 
@@ -1298,11 +1303,13 @@ https://doc.qt.io/qtforpython/tutorials/qmlapp/qmlapplication.html
 https://www.youtube.com/user/cs50tv/featured CS50 MIT course Python ML
 
 
+
+
 Rust
 
 https://www.rust-lang.org/
 
-
+https://youtu.be/jCEowpEBOqM
 
 
 
@@ -1334,7 +1341,9 @@ monday.com to do ++
 
 https://education.github.com/pack
 
+https://youtu.be/9RsIP9Y5GYs
 
+https://www.youtube.com/watch?v=xQiYBXxE59s&feature=youtu.be
 
 
 
@@ -1512,7 +1521,9 @@ https://sg-mktg.com/MTU4NTc2Nzc2OHw0MFZVblpXa2w2WUN1d3NVV0xMWVRDT1hFakZpYk0tNjc5
 
 https://electrical-engineering-portal.com/substation-level-data-acquisition-architecture-iec-61850
 
+O & M (O&M) Maintenance
 
+https://youtu.be/n3ameFDY4i4
 
 
 
@@ -1553,7 +1564,7 @@ https://go.qwiklabs.com/cloud-study-jams-2020
 
 https://google.qwiklabs.com/quests/23
 
-
+https://youtu.be/iXmnUCQmDvc
 
 
 
@@ -1564,6 +1575,8 @@ https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorial-g
 https://docs.oracle.com/en/cloud/paas/autonomous-data-warehouse-cloud/tutorials.html
 
 https://education.oracle.com/pt_BR/?source=:em:eo:ie:cpo:RC_NAMK200410P00020:SEV400046743
+
+https://youtu.be/Vspj_2GVg4s
 
 
 IBM Cloud
@@ -1583,6 +1596,18 @@ https://www.akamai.com/br/pt/what-we-do/world-class-digital-experiences.jsp
 
 code as infra
 
+https://www.terraform.io/index.html
+
+https://app.terraform.io/session
+
+https://ascode.run/
+
+https://www.pulumi.com/
+
+
+Monitoring
+
+http://munin-monitoring.org/
 
 
 
