@@ -1620,6 +1620,9 @@ https://ascode.run/
 
 https://www.pulumi.com/
 
+https://youtu.be/7wGm_mL_fbA
+
+
 
 Monitoring & observe
 
