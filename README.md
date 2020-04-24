@@ -781,6 +781,11 @@ https://learn.oracle.com/ols/course/oracle-cloud-infrastructure-architect-profes
 
 https://drive.google.com/drive/folders/1PUCHB9OjucicEsY27LomRGZ9YFgekANf
 
+http://app.response.oracle-mail.com/e/er?elq_mid=159276&sh=26232214260926152203261323092225092219142209091219092220202209262322142609310133033022&cmid=LAMK200325P00097&s=1973398186&lid=405848&elqTrackId=3fff9e14f2c548278695fc043721eb91&elq=c2322ef4aaec45e0b13d8c552691f5a6&elqaid=159276&elqat=1
+
+
+
+
 ELK Elastisearch
 
 
