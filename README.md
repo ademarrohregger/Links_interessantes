@@ -1021,8 +1021,6 @@ https://www.lipsum.com/ Lorem ipsum
 
 https://codepen.io/
 
-https://flutter.dev/
-
 https://developers.google.com/web/fundamentals/performance/rail google reference
 
 https://docs.microsoft.com/en-us/dotnet/framework/wpf/introduction-to-wpf
@@ -1109,6 +1107,24 @@ https://formspree.io/ Forms
 
 https://www.staticforms.xyz/ Forms
 
+https://www.twitch.tv/videos/598298578?collection=kAw_NbXVBxa0yg
+
+https://www.gatsbyjs.org/
+
+https://auth0.com/
+
+ https://mobirise.com/ webpage wo code WEB DESIGNER FAST NO CODE FOR BINA LIKE
+
+https://www.canva.com/  design logos, flyer, etc
+
+
+https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css/
+
+https://youtu.be/ytE_IlF0xv8
+
+https://ionicframework.com/
+
+
 
 
 
@@ -1124,7 +1140,6 @@ https://reactjs.org/
 
 https://www.youtube.com/watch?v=y5B0MXmt428  React, babel, webpack
 
-https://ionicframework.com/
 
 https://reactnative.dev/
 
@@ -1138,13 +1153,7 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLoiNndfuEs2So-MFLSMvBmmD
 
 https://www.youtube.com/playlist?list=PL85ITvJ7FLohPEPL9HgcSBOhjpiFYZOlG
 
-https://www.gatsbyjs.org/
 
-https://auth0.com/
-
- https://mobirise.com/ webpage wo code WEB DESIGNER FAST NO CODE FOR BINA LIKE
-
-https://www.canva.com/  design logos, flyer, etc
 
 
 
@@ -1328,6 +1337,8 @@ https://developer.android.com/jetpack/compose
 https://www.youtube.com/watch?v=zP7zPCQOdJk
 
 
+https://flutter.dev/
+
 
 DevOps
 
@@ -1401,6 +1412,11 @@ https://qoda.com.br/projeto-data-science-do-zero-com-python-r-e-javascript-dia1/
 
 
 https://databricks.com/try-databricks?utm_medium=cpc&utm_source=google&utm_campaign=8984002507&utm_offer=try-databricks&utm_content=trial&gclid=Cj0KCQjws_r0BRCwARIsAMxfDRh6R2ticEsdseSoynBNRfYWLkxD72_ctB57537L2x7X7E6IZbzAMXsaAjOJEALw_wcB
+
+https://www.kaggle.com/
+
+
+
 
 
 
@@ -1605,13 +1621,30 @@ https://ascode.run/
 https://www.pulumi.com/
 
 
-Monitoring
+Monitoring & observe
+
 
 http://munin-monitoring.org/
+
+https://prometheus.io/
+
+https://grafana.com/
+
+https://www.datadoghq.com/
+
+https://newrelic.com/
+
+https://kiali.io/
+
+https://istio.io/
+
+
+
 
 
 
 online coding (code) tools
+
 
 https://dartpad.dev/flutter
 
