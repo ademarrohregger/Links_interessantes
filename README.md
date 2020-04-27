@@ -249,7 +249,7 @@ https://clojure.org/
 
 https://groovy-lang.org/
 
-
+https://www.jdoodle.com/online-java-compiler/ java online
 
 .NET
 
@@ -360,6 +360,16 @@ https://bigorange.cloud/actions/   to describe security policy
 aws --no-sign-request s3 ls s3://webinarbuckers32  to see some public s3 bucket
 
 https://shhgit.darkport.co.uk/ to search keys
+
+https://youtu.be/wm2kRTVimmg Segurança em Bucket S3 (AWS)  Montoro
+
+https://www.itforum365.com.br/tendencias-de-seguranca-cibernetica-em-2020/ TRENDS
+
+
+
+
+
+
 
 Security cast
 
@@ -646,6 +656,19 @@ https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
 https://youtu.be/7Ok6BycD1co
 
 https://github.com/huginn/huginn
+
+https://youtu.be/JP-D1In0juw goland automated tests
+
+
+
+
+
+
+Eficient methodologies (agile, scrum, etc)
+
+https://triz-journal.com/guided-technology-evolution-triz-technology-forecasting/ Theory of Inventive Problem Solving
+
+
 
 
 
@@ -1316,7 +1339,10 @@ https://doc.qt.io/qtforpython/tutorials/qmlapp/qmlapplication.html
 
 https://www.youtube.com/user/cs50tv/featured CS50 MIT course Python ML
 
+https://youtu.be/U6BzW48-D9A api
 
+
+https://youtu.be/i8FBZZnSvS0  genetic algorithms and quantic computing
 
 
 Rust
@@ -1485,6 +1511,7 @@ https://www.cloudflare.com/pt-br/lp/overview-a/
 
 https://www.smashingmagazine.com/2020/04/web-app-headless-cms-react/
 
+https://youtu.be/9RsIP9Y5GYs Web Product manager and Produsct designer
 
 
 games
@@ -1615,7 +1642,13 @@ SAAS
 https://www.akamai.com/br/pt/what-we-do/world-class-digital-experiences.jsp
 
 
+
+
+
+
 code as infra
+
+
 
 https://www.terraform.io/index.html
 
@@ -1626,6 +1659,9 @@ https://ascode.run/
 https://www.pulumi.com/
 
 https://youtu.be/7wGm_mL_fbA
+
+https://blog.joaovrmaia.com/post/desenhando-infraestrutura-com-codigo/
+
 
 
 
@@ -1768,6 +1804,10 @@ smalhotra@fanshawec.calas  doubts
 Coronavirus COVID19
 
 https://lbry.tv/@Movies:3c/The-first-documentary-movie-on-CCP-virus,-Tracking-Down-the-Origin-of-the-Wuhan-Coronavirus.covid19:d
+
+Hobbies
+
+https://youtu.be/wTIYCfpB50M New york 4d cityscape history
 
 
 
