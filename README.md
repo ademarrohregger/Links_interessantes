@@ -719,8 +719,6 @@ https://hadoop.apache.org/ Distributed computing
 
 https://www.litho.cc/products/lithoandsdk AR
 
-https://graphql.org/
-
 https://www.hashicorp.com/
 
 https://socket.io/#examples
@@ -1024,10 +1022,15 @@ https://allsourcecode.com/jevelin-v4-6-6-multi-purpose-premium-responsive-theme/
 
 
 
-back end
+javascript
 
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/
 
+https://graphql.org/
+
+https://docs.nestjs.com/
+
+https://www.gatsbyjs.org/
 
 
 front end
@@ -1189,11 +1192,18 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLohPEPL9HgcSBOhjpiFYZOlG
 
 angular
 
+
+
 https://www.youtube.com/watch?v=nFK7uGzU81U&feature=youtu.be
 
 
 
+
+
+
+
 web marketing
+
 
 
 https://geradordepersonas.com.br/
@@ -1256,6 +1266,13 @@ https://yoast.com/help/
 
 https://register.gotowebinar.com/recording/viewRecording/6971935468115536651/1673358147697561606/ademar.rohregger@gmail.com?registrantKey=6317088332964080909&type=ATTENDEEEMAILRECORDINGLINK
 
+
+SEO
+
+
+https://search.google.com/ SEO google search analyzing
+
+https://neilpatel.com/br/blog/sete-ferramentas-de-seo-gratuitas/?utm_source=email&utm_medium=link&utm_campaign=abril-semana5-email1
 
 
 
@@ -1512,6 +1529,10 @@ https://www.cloudflare.com/pt-br/lp/overview-a/
 https://www.smashingmagazine.com/2020/04/web-app-headless-cms-react/
 
 https://youtu.be/9RsIP9Y5GYs Web Product manager and Produsct designer
+
+https://www.bookmark.com/
+
+https://www.electronjs.org/ c asap
 
 
 games
