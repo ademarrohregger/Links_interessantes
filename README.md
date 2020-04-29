@@ -333,7 +333,6 @@ https://www.zdnet.com/article/ghostcat-bug-impacts-all-apache-tomcat-versions-re
 
 https://www.linkedin.com/posts/313xcybersecurity_guidelines-for-cybsersecurity-in-hospitals-activity-6639186472010346497-B9bU
 
-https://thehack.com.br/basta-uma-simples-pesquisa-no-google-para-encontrar-grupos-secretos-no-whatsapp/
 
 https://nakedsecurity.sophos.com/2020/02/27/slickwraps-data-breach-earns-scorn-for-all/
 
@@ -460,7 +459,9 @@ https://alternativeto.net/
 
 https://www.techrepublic.com/videos/how-to-protect-your-organization-and-remote-workers-against-ransomware/#ftag=RSS56d97e7
 
+https://thehack.com.br/basta-uma-simples-pesquisa-no-google-para-encontrar-grupos-secretos-no-whatsapp/
 
+https://www.dnsleaktest.com/
 
 
 
@@ -755,7 +756,7 @@ https://nginx.org/en/
 
 https://www.youtube.com/watch?v=XGSuK8kyGag&feature=youtu.be
 
-
+https://www.zabbix.com/
 
 
 
@@ -833,83 +834,6 @@ https://techlipe.github.io/Guia-Completo-Elastic-Stack/
 https://www.elastic.co/guide/en/logstash/current/plugins-inputs-http_poller.html
 
 https://medium.com/@ibrahim.ayadhi97/deploying-of-infrastructure-and-technologies-for-a-soc-as-a-service-socass-8e1bbb885149
-
-
-
-Node.js 
-
-
-https://jscomplete.com/learn
-
-https://www.sitepoint.com/developers-rest-api/
-
-http://www.fullstackradio.com/
-
-https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit#slide=id.p
-
-https://nodejs.org/en/download/package-manager/#macos
-
-https://www.twitch.tv/videos/591383540
-
-https://www.youtube.com/watch?v=QYR64dVRkWE
-
-
-
-API
-
-https://www.postman.com/webinars/enterprise-ecommerce-webinar
-
-https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit?pli=1#slide=id.p      API create
-
-
-
-
-API lists
-
-https://www.programmableweb.com/category-api
-
-https://apilist.fun/
-
-https://www.youtube.com/watch?v=GZvSYJDk-us&feature=youtu.be
-
-https://www.twilio.com/
-
-https://stedolan.github.io/jq/tutorial/
-
-https://www.postman.com/
-
-https://explore.postman.com/
-
-https://www.postman.com/resources/videos-tutorials/
-
-https://www.twilio.com/docs/libraries/node#installation
-
-https://glitch.com/ easy app design
-
-
-
-
-PhP
-
-
-https://www.getrevue.co/profile/asemanaphp
-
-https://www.phpsc.com.br/
-
-https://laravel.com/
-
-https://getcomposer.org/
-
-https://www.sequelpro.com/
-
-https://phpsp.github.io/php-guide-pt_BR/pages/php-basics.html
-
-https://github.com/ademarrohregger/php-guide-pt_BR
-
-
-
-
-
 
 
 
@@ -1020,17 +944,6 @@ https://www.google.com/search?client=firefox-b-d&q=arned+Value+Management+System
 https://allsourcecode.com/jevelin-v4-6-6-multi-purpose-premium-responsive-theme/
 
 
-
-
-javascript
-
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/
-
-https://graphql.org/
-
-https://docs.nestjs.com/
-
-https://www.gatsbyjs.org/
 
 
 front end
@@ -1156,9 +1069,88 @@ https://youtu.be/ytE_IlF0xv8
 https://ionicframework.com/
 
 
+Node.js 
+
+
+https://jscomplete.com/learn
+
+https://www.sitepoint.com/developers-rest-api/
+
+http://www.fullstackradio.com/
+
+https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit#slide=id.p
+
+https://nodejs.org/en/download/package-manager/#macos
+
+https://www.twitch.tv/videos/591383540
+
+https://www.youtube.com/watch?v=QYR64dVRkWE
+
+
+javascript
+
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/
+
+https://graphql.org/
+
+https://docs.nestjs.com/
+
+https://www.gatsbyjs.org/
 
 
 
+
+
+API
+
+https://www.postman.com/webinars/enterprise-ecommerce-webinar
+
+https://docs.google.com/presentation/d/1tfVp2zTnJYAB3zUGkDJDUnaOPqyxU3_XRJjTsLbxVLo/edit?pli=1#slide=id.p      API create
+
+
+
+
+API lists
+
+https://www.programmableweb.com/category-api
+
+https://apilist.fun/
+
+https://www.youtube.com/watch?v=GZvSYJDk-us&feature=youtu.be
+
+https://www.twilio.com/
+
+https://stedolan.github.io/jq/tutorial/
+
+https://www.postman.com/
+
+https://explore.postman.com/
+
+https://www.postman.com/resources/videos-tutorials/
+
+https://www.twilio.com/docs/libraries/node#installation
+
+https://glitch.com/ easy app design
+
+
+
+
+PhP
+
+
+https://www.getrevue.co/profile/asemanaphp
+
+https://www.phpsc.com.br/
+
+https://laravel.com/
+
+https://getcomposer.org/
+
+https://www.sequelpro.com/
+
+https://phpsp.github.io/php-guide-pt_BR/pages/php-basics.html
+
+https://github.com/ademarrohregger/php-guide-pt_BR
 
 
 React
@@ -1185,8 +1177,9 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLoiNndfuEs2So-MFLSMvBmmD
 https://www.youtube.com/playlist?list=PL85ITvJ7FLohPEPL9HgcSBOhjpiFYZOlG
 
 
+Test TDD
 
-
+https://jestjs.io/ jsvascript test
 
 
 
