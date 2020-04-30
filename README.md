@@ -93,9 +93,16 @@ https://www.freesumes.com/contrast-the-free-bold-fill-in-the-blank-resume-design
 
 https://dash.cloudflare.com/557bbd97dbf54d9ed78893ad9122a444/enersys.com.br/ssl-tls
 
+
 weblink
 
 https://blog.pitchme.co/2020/04/22/how-to-optimise-your-digital-footprint-a-guide-for-it-professionals-by-pitchme/
+
+
+https://www.jvstoronto.org/blog/ask-the-employment-specialist-formatting-tips-for-your-resume-and-cover-letter-how-to-use-headers-2/?utm_source=mailchimp&utm_campaign=resume_clinic&utm_medium=email&utm_content=lesson_1
+
+
+https://trello.com/b/BgjzkHyV/enersys-page  include in resume
 
 
 
