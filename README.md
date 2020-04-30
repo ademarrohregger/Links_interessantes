@@ -91,7 +91,7 @@ weblink
 
 https://blog.pitchme.co/2020/04/22/how-to-optimise-your-digital-footprint-a-guide-for-it-professionals-by-pitchme/
 
-
+https://profile.codersrank.io/onboarding/create   codes rank 
 
 
 business management & software development (SD)
@@ -1101,6 +1101,12 @@ https://phpsp.github.io/php-guide-pt_BR/pages/php-basics.html
 
 https://github.com/ademarrohregger/php-guide-pt_BR
 
+https://www.opencart.com/
+
+https://demo.magento.com/Magento-Commerce-Demo?gclid=Cj0KCQjw7qn1BRDqARIsAKMbHDbgEcoRjYvGtHBEQ1yQCYo3CNrZqn017qgzgf6jh0VilE90XXnR3IIaAtFgEALw_wcB&mv=search&ef_id=Cj0KCQjw7qn1BRDqARIsAKMbHDbgEcoRjYvGtHBEQ1yQCYo3CNrZqn017qgzgf6jh0VilE90XXnR3IIaAtFgEALw_wcB:G:s&s_kwcid=AL!3085!3!307512953218!e!!g!!magento%20php&utm_source=JM_Google&utm_medium=paid-search&utm_campaign=1802-DG-AD-DM-B2C-JM-Google-General-Demo2&utm_term=magento%20php
+
+https://symfony.com/
+
 
 React
 
@@ -1822,24 +1828,6 @@ https://www.academia.edu/20580020/A_PRUD%C3%8ANCIA_POL%C3%8DTICA_NA_FILOSOFIA_DE
 https://www.mises.org.br/article/3149/e-facil-entender-por-que-os-jovens-dos-paises-mais-ricos-tendem-a-defender-mais-socialismo
 
 
-
-Canada & Fanshawe
-
-https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/border-entry.html
-
-https://www.cic.gc.ca/lctvac/english/index
-
-https://www.jvstoronto.org/blog/ask-the-employment-specialist-formatting-tips-for-your-resume-and-cover-letter-how-to-use-headers-2/?utm_source=mailchimp&utm_campaign=resume_clinic&utm_medium=email&utm_content=lesson_1
-
-https://www.canada.ca/en/employment-social-development/services/sin/apply.html
-
-https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186-eng.html
-
-https://www.cic.gc.ca/lctvac/english/PA0009
-
-https://www.fanshawec.ca/about-fanshawe/contact/experience-fanshawe-college-online
-
-smalhotra@fanshawec.calas  doubts 
 
 
 
