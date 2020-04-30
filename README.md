@@ -470,6 +470,9 @@ http://www.happyfunnyland.com/downloads/Mastering-Kali-Linux-for-Advanced-Penetr
 https://www.apachefriends.org/index.html  free complete servers
 
 
+https://www.exploitee.rs/index.php/Main_Page  hw hacking
+
+
 SSL / HASH / BlockChain / vpn  
 
 
