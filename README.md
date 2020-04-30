@@ -463,10 +463,14 @@ https://thehack.com.br/basta-uma-simples-pesquisa-no-google-para-encontrar-grupo
 
 https://www.dnsleaktest.com/
 
+https://youtu.be/tDh6rLVVnMk  Fern Wifi cracker - Kali Linux WEP cracker
+
+http://www.happyfunnyland.com/downloads/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Beggs-Robert.pdf  WEP cracking - FMS and PWT attacks
+
+https://www.apachefriends.org/index.html  free complete servers
 
 
-
-SSL / HASH / BlockChain / vpn
+SSL / HASH / BlockChain / vpn  
 
 
 
@@ -1741,7 +1745,7 @@ https://semver.org/
 
 https://www.freecodecamp.org/news/set-future-you-up-for-success-with-good-coding-habits/
 
-
+https://www.gitkraken.com/
 
 
 
