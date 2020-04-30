@@ -1030,8 +1030,13 @@ https://www.twitch.tv/videos/591383540
 
 https://www.youtube.com/watch?v=QYR64dVRkWE
 
+https://expo.io/learn builder for mobile
+
+
 
 javascript
+
+
 
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/
 
@@ -1727,9 +1732,12 @@ https://www.youtube.com/watch?v=LntSCE-L0xc&feature=youtu.be
 
 https://ghostbin.co/
 
+https://theia-ide.org/
+
 
 
 codewars
+
 
 https://www.codewars.com/
 
