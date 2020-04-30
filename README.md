@@ -603,66 +603,6 @@ https://helm.sh/
 
 
 
-automation & testing (for IT)
-
-
-https://jenkins.io/
-
-https://mailtrap.io/
-
-https://puppet.com/
-
-https://www.selenium.dev/
-https://www.selenium.dev/documentation/en/webdriver/
-
-https://www.gurock.com/testrail/agile-testing?utm_source=adwords&utm_medium=cpc&utm_campaign=bing-USA_CAN_en_Generic&utm_content=agile%20testing&msclkid=41de9cebc8d71747e8fac2ba566919ce
-
-
-https://github.com/ademarrohregger/testlink-code
-
-https://github.com/mantisbt/mantisbt
-
-https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2019
-
-https://jmeter.apache.org/
-
-https://en.wikipedia.org/wiki/SOAP
-
-https://www.soapui.org/
-
-https://appium.io/
-
-https://saucelabs.com/
-
-https://cucumber.io/
-
-https://github.com/ademarrohregger/allpairspy
-
-https://jenkins.io/
-
-https://agiletesters.com.br/
-
-https://thedevconf.com/tdc/2018/florianopolis/trilha-testes
-
-https://eliasnogueira.github.io/workshop-api-rest-frisby-base/
-
-https://robotizandotestes.blogspot.com/
-
-https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test-project?view=vs-2019
-
-https://jmeter.apache.org/
-
-https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
-
-https://youtu.be/7Ok6BycD1co
-
-https://github.com/huginn/huginn
-
-https://youtu.be/JP-D1In0juw goland automated tests
-
-
-
-
 
 
 Eficient methodologies (agile, scrum, etc)
@@ -1177,9 +1117,76 @@ https://www.youtube.com/playlist?list=PL85ITvJ7FLoiNndfuEs2So-MFLSMvBmmD
 https://www.youtube.com/playlist?list=PL85ITvJ7FLohPEPL9HgcSBOhjpiFYZOlG
 
 
-Test TDD
+
+
+
+TDD, automation & testing (for IT)
+
+https://jenkins.io/
+
+https://mailtrap.io/
+
+https://puppet.com/
+
+https://www.selenium.dev/
+https://www.selenium.dev/documentation/en/webdriver/
+
+https://www.gurock.com/testrail/agile-testing?utm_source=adwords&utm_medium=cpc&utm_campaign=bing-USA_CAN_en_Generic&utm_content=agile%20testing&msclkid=41de9cebc8d71747e8fac2ba566919ce
+
+
+https://github.com/ademarrohregger/testlink-code
+
+https://github.com/mantisbt/mantisbt
+
+https://docs.microsoft.com/en-us/visualstudio/test/use-ui-automation-to-test-your-code?view=vs-2019
+
+https://jmeter.apache.org/
+
+https://en.wikipedia.org/wiki/SOAP
+
+https://www.soapui.org/
+
+https://appium.io/
+
+https://saucelabs.com/
+
+https://cucumber.io/
+
+https://github.com/ademarrohregger/allpairspy
+
+https://jenkins.io/
+
+https://agiletesters.com.br/
+
+https://thedevconf.com/tdc/2018/florianopolis/trilha-testes
+
+https://eliasnogueira.github.io/workshop-api-rest-frisby-base/
+
+https://robotizandotestes.blogspot.com/
+
+https://docs.microsoft.com/en-us/visualstudio/test/quickstart-create-a-load-test-project?view=vs-2019
+
+https://jmeter.apache.org/
+
+https://www.eduonix.com/dashboard/Learn-Web-Automation-Testing-Using-Selenium
+
+https://youtu.be/7Ok6BycD1co
+
+https://github.com/huginn/huginn
+
+https://youtu.be/JP-D1In0juw goland automated tests
 
 https://jestjs.io/ jsvascript test
+
+https://codecov.io/
+
+https://adonisjs.com/
+
+https://adonisjs.com/
+
+
+
+
 
 
 
@@ -1609,6 +1616,10 @@ https://www.darkreading.com/attacks-breaches/a-hackers-perspective-on-securing-v
 https://www.youtube.com/watch?v=hqKafI7Amd8
 
 https://capturetheflag.com.br/login
+
+
+https://www.whatsmyip.org/mac-address-lookup/  look mac address
+
 
 
 
