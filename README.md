@@ -16,6 +16,12 @@ https://www.outsideonline.com/1926561/lifes-swell
 https://ed.ted.com/lessons/how-you-can-use-impostor-syndrome-to-your-benefit-mike-cannon-brookes?fbclid=IwAR0wFDZgMHtwS6o0LgEmbrBkn7zFfItT71F-zrfUI5xlfaDRkFh3J0ICrj0
 
 
+Job interview
+
+https://github.com/security-prince/Application-Security-Engineer-Interview-Questions/blob/master/README.md
+
+https://www.randstad.ca/job-seeker/career-resources/job-interviews/how-to-ace-17-challenging-interview-questions/?utm_campaign=2020-EXT&utm_source=hs_automation&utm_medium=email&utm_content=74971982&_hsenc=p2ANqtz-9bZkIr4RJOgFN8zCxM_gXTXxPIPJiMYlB03R9lzHsxHJvdlfDIDZ8Iykmy_QdQ8K5PNCi6XeimlBBUDYQGdFnTccc5GcGEEt6_duCQ1qcANkeUFIo&_hsmi=74971982
+
 
 IT jobs reference
 
@@ -91,7 +97,7 @@ weblink
 
 https://blog.pitchme.co/2020/04/22/how-to-optimise-your-digital-footprint-a-guide-for-it-professionals-by-pitchme/
 
-https://profile.codersrank.io/onboarding/create   codes rank 
+
 
 
 business management & software development (SD)
@@ -325,7 +331,6 @@ https://www.netacad.com/pt-br/courses/security/introduction-cybersecurity
 
 https://www.udemy.com/course/curso-de-seguranca-em-nuvem/
 
-https://github.com/security-prince/Application-Security-Engineer-Interview-Questions/blob/master/README.md
 
 https://www.elastic.co/pdf/elastic-guide-to-threat-hunting?ultron=rsa-2020&blade=twitter&hulk=social
 
@@ -468,9 +473,6 @@ https://youtu.be/tDh6rLVVnMk  Fern Wifi cracker - Kali Linux WEP cracker
 http://www.happyfunnyland.com/downloads/Mastering-Kali-Linux-for-Advanced-Penetration-Testing-Beggs-Robert.pdf  WEP cracking - FMS and PWT attacks
 
 https://www.apachefriends.org/index.html  free complete servers
-
-
-https://www.exploitee.rs/index.php/Main_Page  hw hacking
 
 
 SSL / HASH / BlockChain / vpn  
@@ -904,7 +906,6 @@ https://www.rapidtables.com/web/color/html-color-codes.html  html colour code ta
 
 https://readymag.com/
 
-https://hackernoon.com/should-i-learn-elm-if-i-am-a-javascript-developer-fba282cef6a0
 
 https://elmprogramming.com/why-elm.html
 
@@ -1049,6 +1050,9 @@ https://docs.nestjs.com/
 
 https://www.gatsbyjs.org/
 
+https://hackernoon.com/should-i-learn-elm-if-i-am-a-javascript-developer-fba282cef6a0
+
+https://github.com/socketio/socket.io
 
 
 
@@ -1103,12 +1107,6 @@ https://www.sequelpro.com/
 https://phpsp.github.io/php-guide-pt_BR/pages/php-basics.html
 
 https://github.com/ademarrohregger/php-guide-pt_BR
-
-https://www.opencart.com/
-
-https://demo.magento.com/Magento-Commerce-Demo?gclid=Cj0KCQjw7qn1BRDqARIsAKMbHDbgEcoRjYvGtHBEQ1yQCYo3CNrZqn017qgzgf6jh0VilE90XXnR3IIaAtFgEALw_wcB&mv=search&ef_id=Cj0KCQjw7qn1BRDqARIsAKMbHDbgEcoRjYvGtHBEQ1yQCYo3CNrZqn017qgzgf6jh0VilE90XXnR3IIaAtFgEALw_wcB:G:s&s_kwcid=AL!3085!3!307512953218!e!!g!!magento%20php&utm_source=JM_Google&utm_medium=paid-search&utm_campaign=1802-DG-AD-DM-B2C-JM-Google-General-Demo2&utm_term=magento%20php
-
-https://symfony.com/
 
 
 React
@@ -1379,6 +1377,12 @@ https://youtu.be/U6BzW48-D9A api
 
 https://youtu.be/i8FBZZnSvS0  genetic algorithms and quantic computing
 
+https://qoda.com.br/projeto-data-science-do-zero-com-python-r-e-javascript-dia1/
+
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/ SOAP in python
+
+
+
 
 Rust
 
@@ -1390,7 +1394,7 @@ https://youtu.be/jCEowpEBOqM
 
 
 
-Mobile
+Mobile & flutter
 
 https://www.devmedia.com.br/o-que-e-flutter/40324
 
@@ -1474,7 +1478,6 @@ https://www.youtube.com/watch?v=iaeLv-ilMA0&feature=youtu.be
 
 https://www.youtube.com/watch?v=r-uOLxNrNk8&feature=youtu.be
 
-https://qoda.com.br/projeto-data-science-do-zero-com-python-r-e-javascript-dia1/
 
 
 https://databricks.com/try-databricks?utm_medium=cpc&utm_source=google&utm_campaign=8984002507&utm_offer=try-databricks&utm_content=trial&gclid=Cj0KCQjws_r0BRCwARIsAMxfDRh6R2ticEsdseSoynBNRfYWLkxD72_ctB57537L2x7X7E6IZbzAMXsaAjOJEALw_wcB
@@ -1608,6 +1611,17 @@ https://sg-mktg.com/MTU4NTc2Nzc2OHw0MFZVblpXa2w2WUN1d3NVV0xMWVRDT1hFakZpYk0tNjc5
 
 https://electrical-engineering-portal.com/substation-level-data-acquisition-architecture-iec-61850
 
+
+Patents
+
+https://www.epo.org/index.html
+
+https://patents.google.com/
+
+https://www.uspto.gov/
+
+
+
 O & M (O&M) Maintenance
 
 https://youtu.be/n3ameFDY4i4
@@ -1637,6 +1651,8 @@ https://capturetheflag.com.br/login
 
 
 https://www.whatsmyip.org/mac-address-lookup/  look mac address
+
+https://linktr.ee/acaditi  cybersec and jacking courses
 
 
 
@@ -1677,6 +1693,8 @@ https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Soci
 https://www.ibm.com/br-pt/campaign/cloud-play?utm_medium=OSocial&utm_source=Socialhub&utm_content=000039ER&utm_term=10000197&utm_id=Cloud+Play+Organico+IBMers&cm_mmc=OSocial_Socialhub-_-Cloud+and+Data+Platform_IBM+Cloud-_-BR_BR-_-Cloud+Play+Organico+IBMers&cm_mmca1=000039ER&cm_mmca2=10000197#2311074
 
 https://www.crowdcast.io/e/3part-watson-ai-technology-series/register?session=1
+
+https://gist.github.com/lidderupk/edab904dde4cecf21f1fb63b429759f1
 
 
 
@@ -1831,6 +1849,24 @@ https://www.academia.edu/20580020/A_PRUD%C3%8ANCIA_POL%C3%8DTICA_NA_FILOSOFIA_DE
 https://www.mises.org.br/article/3149/e-facil-entender-por-que-os-jovens-dos-paises-mais-ricos-tendem-a-defender-mais-socialismo
 
 
+
+Canada & Fanshawe
+
+https://www.canada.ca/en/immigration-refugees-citizenship/services/new-immigrants/prepare-life-canada/border-entry.html
+
+https://www.cic.gc.ca/lctvac/english/index
+
+https://www.jvstoronto.org/blog/ask-the-employment-specialist-formatting-tips-for-your-resume-and-cover-letter-how-to-use-headers-2/?utm_source=mailchimp&utm_campaign=resume_clinic&utm_medium=email&utm_content=lesson_1
+
+https://www.canada.ca/en/employment-social-development/services/sin/apply.html
+
+https://www.cbsa-asfc.gc.ca/publications/forms-formulaires/bsf186-eng.html
+
+https://www.cic.gc.ca/lctvac/english/PA0009
+
+https://www.fanshawec.ca/about-fanshawe/contact/experience-fanshawe-college-online
+
+smalhotra@fanshawec.calas  doubts 
 
 
 
