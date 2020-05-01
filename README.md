@@ -1024,6 +1024,11 @@ https://youtu.be/ytE_IlF0xv8
 https://ionicframework.com/
 
 
+
+
+
+
+
 Node.js 
 
 
@@ -1432,6 +1437,12 @@ https://education.github.com/pack
 https://youtu.be/9RsIP9Y5GYs
 
 https://www.youtube.com/watch?v=xQiYBXxE59s&feature=youtu.be
+
+
+
+CD / CI
+
+https://circleci.com/enterprise-trial-install/?utm_source=gb&utm_medium=SEM&utm_campaign=SEM-gb-200-Eng-ni&utm_content=SEM-gb-200-Eng-ni-Circle-CI&gclid=Cj0KCQjw7qn1BRDqARIsAKMbHDZPg1U8I37AtY3Avm73ogQtzS92ON46qQ1Djm5wSyuSUYimNXcl3IoaAjrFEALw_wcB  Circle CI
 
 
 
