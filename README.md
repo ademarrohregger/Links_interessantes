@@ -482,6 +482,11 @@ http://www.happyfunnyland.com/downloads/Mastering-Kali-Linux-for-Advanced-Penetr
 https://www.apachefriends.org/index.html  free complete servers
 
 
+https://dnsdumpster.com/  dns / server information
+
+https://github.com/ademarrohregger/discover  complete recon
+
+
 SSL / HASH / BlockChain / vpn  
 
 
@@ -1675,6 +1680,7 @@ https://www.whatsmyip.org/mac-address-lookup/  look mac address
 https://linktr.ee/acaditi  cybersec and jacking courses
 
 https://www.hackthebox.eu/home/start  HTB start right now
+
 
 
 
