@@ -1455,7 +1455,7 @@ https://cloud.google.com/bigquery/?&utm_source=google&utm_medium=cpc&utm_campaig
 
 https://www.youtube.com/watch?v=Syy2jpuWDAU
 
-
+https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2020/course/
 
 
 
@@ -1573,6 +1573,8 @@ https://www.bookmark.com/
 
 https://www.electronjs.org/ c asap
 
+https://github.com/ademarrohregger/app-ideas   BEST EVER
+
 
 games
 https://www.razer.com/ca-en
@@ -1672,7 +1674,7 @@ https://www.whatsmyip.org/mac-address-lookup/  look mac address
 
 https://linktr.ee/acaditi  cybersec and jacking courses
 
-
+https://www.hackthebox.eu/home/start  HTB start right now
 
 
 
@@ -1691,6 +1693,7 @@ https://google.qwiklabs.com/quests/23
 
 https://youtu.be/iXmnUCQmDvc
 
+https://go.qwiklabs.com/cloud-study-jams-2020
 
 
 Oracle OCI
