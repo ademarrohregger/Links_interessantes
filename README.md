@@ -1652,38 +1652,6 @@ O & M (O&M) Maintenance
 https://youtu.be/n3ameFDY4i4
 
 
-
-hacking
-
-https://pt.wikipedia.org/wiki/Ataque_de_nega%C3%A7%C3%A3o_de_servi%C3%A7o
-
-https://web.stanford.edu/class/cs253/
-
-https://gist.github.com/joepie91/5a9909939e6ce7d09e29
-
-https://www.mentebinaria.com.br/?_fromLogin=1
-
-https://www.darkreading.com/risk/securing-your-remote-workforce-a-coronavirus-guide-for-businesses-/a/d-id/1337398
-
-https://www.techrepublic.com/article/vpn-5-reasons-business-pros-should-always-use-one/
-
-https://www.darkreading.com/attacks-breaches/a-hackers-perspective-on-securing-vpns-as-you-go-remote/a/d-id/1337425
-
-
-https://www.youtube.com/watch?v=hqKafI7Amd8
-
-https://capturetheflag.com.br/login
-
-
-https://www.whatsmyip.org/mac-address-lookup/  look mac address
-
-https://linktr.ee/acaditi  cybersec and jacking courses
-
-https://www.hackthebox.eu/home/start  HTB start right now
-
-
-
-
 GCP
 
 
