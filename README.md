@@ -1580,6 +1580,10 @@ https://www.electronjs.org/ c asap
 
 https://github.com/ademarrohregger/app-ideas   BEST EVER
 
+http://serveo.net/  exposure localhost to internet
+
+
+
 
 games
 https://www.razer.com/ca-en
